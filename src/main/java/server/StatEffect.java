@@ -448,6 +448,10 @@ public class StatEffect {
                 } else if ((sourceid == Beginner.NIMBLE_FEET || sourceid == Noblesse.NIMBLE_FEET || sourceid == Evan.NIMBLE_FEET || sourceid == Legend.AGILE_BODY) && YamlConfig.config.server.USE_ULTRA_NIMBLE_FEET == true) {
                     ret.jump = (short) (ret.speed * 4);
                     ret.speed *= 15;
+                    ret.cooldown = 0;
+                    ret.duration = 360 * 1000;
+                } else if (sourceid == Assassin.HASTE || sourceid == Bandit.HASTE || sourceid == Assassin.CLAW_BOOSTER || sourceid == Bandit.DAGGER_BOOSTER) {
+                    ret.duration = 360 * 1000;
                 }
             }
 

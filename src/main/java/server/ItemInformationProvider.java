@@ -374,7 +374,7 @@ public class ItemInformationProvider {
                 if (ItemConstants.getInventoryType(itemId).getType() == InventoryType.EQUIP.getType()) {
                     ret = 1;
                 } else {
-                    ret = 100;
+                    ret = (short) Math.max(100, (int) YamlConfig.config.server.ITEM_STACK_MAX_SLOT);
                 }
             } else {
                 ret = (short) DataTool.getInt(smEntry);

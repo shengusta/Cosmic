@@ -3514,7 +3514,7 @@ public class MapleMap {
             return;
         }
 
-        final int numShouldSpawn = (short) ((monsterSpawn.size() - spawnedMonstersOnMap.get()));//Fking lol'd
+        final int numShouldSpawn = (short) ((monsterSpawn.size() - spawnedMonstersOnMap.get()) * YamlConfig.config.server.MONSTER_SPAWN_RATE_MULTIPLIER);//Fking lol'd
         if (numShouldSpawn > 0) {
             List<SpawnPoint> randomSpawn = getMonsterSpawn();
             Collections.shuffle(randomSpawn);
@@ -3536,7 +3536,7 @@ public class MapleMap {
             return;
         }
 
-        final int numShouldSpawn = (short) ((monsterSpawn.size() - spawnedMonstersOnMap.get()));//Fking lol'd
+        final int numShouldSpawn = (short) ((monsterSpawn.size() - spawnedMonstersOnMap.get()) * YamlConfig.config.server.MONSTER_SPAWN_RATE_MULTIPLIER);//Fking lol'd
         if (numShouldSpawn > 0) {
             List<SpawnPoint> randomSpawn = getMonsterSpawn();
             Collections.shuffle(randomSpawn);
@@ -3633,16 +3633,17 @@ public class MapleMap {
             chrRLock.unlock();
         }
 
-        int numShouldSpawn = getNumShouldSpawn(numPlayers);
+        int numShouldSpawn = (int) (getNumShouldSpawn(numPlayers) * YamlConfig.config.server.MONSTER_SPAWN_RATE_MULTIPLIER);
         if (numShouldSpawn > 0) {
             List<SpawnPoint> randomSpawn = new ArrayList<>(getMonsterSpawn());
             Collections.shuffle(randomSpawn);
             short spawned = 0;
             for (SpawnPoint spawnPoint : randomSpawn) {
                 if (spawnPoint.shouldSpawn()) {
-                    spawnMonster(spawnPoint.getMonster());
-                    spawned++;
-
+                    for (int i = 0; i < YamlConfig.config.server.MONSTER_SPAWN_RATE_MULTIPLIER; i++) {
+                        spawnMonster(spawnPoint.getMonster());
+                        spawned++;
+                    }
                     if (spawned >= numShouldSpawn) {
                         break;
                     }

@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ServerConfig {
+    //my edits
+    public float MONSTER_SPAWN_RATE_MULTIPLIER;
+    public int ITEM_STACK_MAX_SLOT;
 
     //Database Configuration
     public String DB_URL_FORMAT;

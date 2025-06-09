@@ -158,11 +158,15 @@ worlds:
 
 
 server:
+    #my edits
+    MONSTER_SPAWN_RATE_MULTIPLIER: 3.0  #Multiplier for the monster spawn rate, which is used to calculate the spawn rate of monsters on a map. Set 1.0 for default (GMS-like) spawn rate.
+    ITEM_STACK_MAX_SLOT: 9999           #Max number of (non equip) items that can be stacked on a single slot
+
     #Database Configuration
     DB_URL_FORMAT: "jdbc:mysql://%s:3306/cosmic" # If the docker ENV for DB_HOST is anything but "db", this string format should be changed from 3306 to 3307 (or whichever port it was changed to in docker) 
     DB_HOST: "localhost" 
     DB_USER: "root"
-    DB_PASS: ""
+    DB_PASS: "root"
     INIT_CONNECTION_POOL_TIMEOUT: 90    # Seconds
 
     #Login Configuration
@@ -178,7 +182,7 @@ server:
     COUPON_INTERVAL: 3600000            #60 minutes, 3600000.
     UPDATE_INTERVAL: 777                #Dictates the frequency on which the "centralized server time" is updated.
 
-    ENABLE_PIC: true               #Pick true/false to enable or disable Pic. Delete character requires PIC available.
+    ENABLE_PIC: false                #Pick true/false to enable or disable Pic. Delete character requires PIC available.
     ENABLE_PIN: false               #Pick true/false to enable or disable Pin.
 
     BYPASS_PIC_EXPIRATION: 525600           #Enables PIC bypass, which will remain active for that account by that client machine for N minutes. Set 0 to disable.
@@ -206,8 +210,8 @@ server:
 
     #Server Flags
     USE_CUSTOM_KEYSET: false             #Enables auto-setup of the HeavenMS's custom keybindings when creating characters.
-    USE_DEBUG: false                    #Will enable some text prints on the client, oriented for debugging purposes.
-    USE_DEBUG_SHOW_INFO_EQPEXP: false   #Prints on the cmd all equip exp gain info.
+    USE_DEBUG: true                    #Will enable some text prints on the client, oriented for debugging purposes.
+    USE_DEBUG_SHOW_INFO_EQPEXP: true   #Prints on the cmd all equip exp gain info.
     USE_DEBUG_SHOW_RCVD_PACKET: false   #Prints on the cmd all received packet ids.
     USE_DEBUG_SHOW_RCVD_MVLIFE: false   #Prints on the cmd all received move life content.
     USE_DEBUG_SHOW_PACKET: false
@@ -244,32 +248,32 @@ server:
     USE_ENFORCE_JOB_LEVEL_RANGE: true  #Caps the player level on the minimum required to advance their current jobs.
     USE_ENFORCE_JOB_SP_RANGE: false     #Caps the player SP level on the total obtainable by their current jobs. After changing jobs, missing SP will be retrieved.
     USE_ENFORCE_ITEM_SUGGESTION: false  #Forces the Owl of Minerva and the Cash Shop to always display the defined item array instead of those featured by the players.
-    USE_ENFORCE_UNMERCHABLE_CASH: true  #Forces players to not sell CASH items via merchants, drops of it disappears.
-    USE_ENFORCE_UNMERCHABLE_PET: true   #Forces players to not sell pets via merchants, drops of it disappears. (since non-named pets gets dirty name and other possible DB-related issues)
+    USE_ENFORCE_UNMERCHABLE_CASH: false  #Forces players to not sell CASH items via merchants, drops of it disappears.
+    USE_ENFORCE_UNMERCHABLE_PET: false   #Forces players to not sell pets via merchants, drops of it disappears. (since non-named pets gets dirty name and other possible DB-related issues)
     USE_ENFORCE_MERCHANT_SAVE: true     #Forces automatic DB save on merchant owners, at every item movement on shop.
     USE_ENFORCE_MDOOR_POSITION: false   #Forces mystic door to be spawned near spawnpoints.
     USE_SPAWN_CLEAN_MDOOR: false         #Makes mystic doors to be spawned without deploy animation. This clears disconnecting issues that may happen when trying to cancel doors a couple seconds after deployment.
     USE_SPAWN_LOOT_ON_ANIMATION: false  #Makes loot appear some time after the mob has been killed (following the mob death animation, instead of instantly).
     USE_SPAWN_RELEVANT_LOOT: true       #Forces to only spawn loots that are collectable by the player or any of their party members.
     USE_ERASE_PERMIT_ON_OPENSHOP: true  #Forces "shop permit" item to be consumed when player deploy his/her player shop.
-    USE_ERASE_UNTRADEABLE_DROP: true    #Forces flagged untradeable items to disappear when dropped.
+    USE_ERASE_UNTRADEABLE_DROP: false    #Forces flagged untradeable items to disappear when dropped.
     USE_ERASE_PET_ON_EXPIRATION: false  #Forces pets to be removed from inventory when expire time comes, rather than converting it to a doll.
     USE_BUFF_MOST_SIGNIFICANT: true     #When applying buffs, the player will stick with the highest stat boost among the listed, rather than overwriting stats.
     USE_BUFF_EVERLASTING: false         #Every applied buff on players holds expiration time so high it'd be considered permanent. Suggestion thanks to Vcoc.
     USE_MULTIPLE_SAME_EQUIP_DROP: true  #Enables multiple drops by mobs of the same equipment, number of possible drops based on the quantities provided at the drop data.
-    USE_BANISHABLE_TOWN_SCROLL: false    #Enables town scrolls to act as if it's a "player banish", rendering the antibanish scroll effect available.
+    USE_BANISHABLE_TOWN_SCROLL: true    #Enables town scrolls to act as if it's a "player banish", rendering the antibanish scroll effect available.
     USE_ENABLE_FULL_RESPAWN: true       #At respawn task, always respawn missing mobs when they're available. Spawn count doesn't depend on how many players are currently there.
     USE_ENABLE_CHAT_LOG: false          #Write in-game chat to log
-    USE_REBIRTH_SYSTEM: false           #Flag to enable/disable rebirth system
+    USE_REBIRTH_SYSTEM: true           #Flag to enable/disable rebirth system
     USE_MAP_OWNERSHIP_SYSTEM: false      #Flag to enable/disable map ownership system
-    USE_FISHING_SYSTEM: false            #Flag to enable/disable custom fishing system
+    USE_FISHING_SYSTEM: true            #Flag to enable/disable custom fishing system
     USE_NPCS_SCRIPTABLE: true           #Flag to enable/disable serverside predefined script NPCs.
 
     #Events/PQs Configuration
     USE_OLD_GMS_STYLED_PQ_NPCS: true     #Enables PQ NPCs with similar behaviour to old GMS style, that skips info about the PQs and immediately tries to register the party in.
-    USE_ENABLE_SOLO_EXPEDITIONS: false    #Enables start expeditions with any number of players. This will also bypass all the Zakum prequest.
+    USE_ENABLE_SOLO_EXPEDITIONS: true    #Enables start expeditions with any number of players. This will also bypass all the Zakum prequest.
     USE_ENABLE_DAILY_EXPEDITIONS: false  #Enables daily entry limitations in expeditions.
-    USE_ENABLE_RECALL_EVENT: false        #Enables a disconnected player to reaccess the last event instance they were in before logging out. Recall only works if the event isn't cleared or disposed yet. Suggestion thanks to Alisson (Goukken).
+    USE_ENABLE_RECALL_EVENT: true        #Enables a disconnected player to reaccess the last event instance they were in before logging out. Recall only works if the event isn't cleared or disposed yet. Suggestion thanks to Alisson (Goukken).
 
     #Announcement Configuration
     USE_ANNOUNCE_SHOPITEMSOLD: false    #Automatic message sent to owner when an item from the Player Shop or Hired Merchant is sold.
@@ -287,18 +291,18 @@ server:
     USE_MAKER_FEE_HEURISTICS: true      #Apply compiled values for stimulants and reagents into the Maker fee calculations (max error revolves around 50k mesos). Set false to use basic constant values instead (results are never higher than requested by the client-side).
 
     #Custom Configuration
-    USE_ENABLE_CUSTOM_NPC_SCRIPT: false  #Enables usage of custom HeavenMS NPC scripts (Agent E, Coco, etc). Will not disable Abdula (it's actually useful for the gameplay) or quests.
+    USE_ENABLE_CUSTOM_NPC_SCRIPT: true  #Enables usage of custom HeavenMS NPC scripts (Agent E, Coco, etc). Will not disable Abdula (it's actually useful for the gameplay) or quests.
     USE_STARTER_MERGE: true            #Allows any players to use the Equipment Merge custom mechanic (as opposed to the high-level, Maker lv3 requisites).
 
     #Commands Configuration
     BLOCK_GENERATE_CASH_ITEM: false     #Prevents creation of cash items with the item/drop command.
     USE_WHOLE_SERVER_RANKING: false     #Enables a ranking pool made from every character registered on the server for the "ranks" command, instead of separated by worlds.
 
-    EQUIP_EXP_RATE: 10.0                  #Rate for equipment exp gain, grows linearly. Set 1.0 for default (about 100~200 same-level range mobs killed to pass equip from level 1 to 2).
+    EQUIP_EXP_RATE: 2.0                  #Rate for equipment exp gain, grows linearly. Set 1.0 for default (about 100~200 same-level range mobs killed to pass equip from level 1 to 2).
     PQ_BONUS_EXP_RATE: 10.0               #Rate for the PQ exp reward.
 
-    EXP_SPLIT_LEVEL_INTERVAL: 10            #Non-contributing players must be within N level between the mob to receive EXP.
-    EXP_SPLIT_LEECH_INTERVAL: 10            #Non-contributing players must be within N level between any contributing party member to receive EXP.
+    EXP_SPLIT_LEVEL_INTERVAL: 100            #Non-contributing players must be within N level between the mob to receive EXP.
+    EXP_SPLIT_LEECH_INTERVAL: 100            #Non-contributing players must be within N level between any contributing party member to receive EXP.
     EXP_SPLIT_MVP_MOD: 0.2
     EXP_SPLIT_COMMON_MOD: 0.8
     PARTY_BONUS_EXP_RATE: 1.0            #Rate for the party exp bonus reward.
@@ -317,7 +321,7 @@ server:
     PARTY_SEARCH_REENTRY_LIMIT: 10              #Max amount of times a party leader is allowed to persist on the Party Search before entry expiration (thus needing to manually restart the Party Search to be able to search for members).
     NAME_CHANGE_COOLDOWN: 60000      # (30*24*60*60*1000) Cooldown for name changes, default (GMS) is 30 days.
     WORLD_TRANSFER_COOLDOWN: 60000  # (30*24*60*60*1000) Cooldown for world tranfers, default is same as name change (30 days).
-    INSTANT_NAME_CHANGE: false              #Whether or not to wait for server restart to apply name changes. Does on reconnect otherwise (requires queries on every login).
+    INSTANT_NAME_CHANGE: true              #Whether or not to wait for server restart to apply name changes. Does on reconnect otherwise (requires queries on every login).
     REBIRTH_NPC_ID: 9010021                 #ID of the NPC that should be replaced with the rebirth mechanic, if enabled.
 
     #Dangling Items/Locks Configuration
@@ -351,12 +355,12 @@ server:
     CHSCROLL_STAT_RANGE: 6              #Stat upgrade range (-N, N) on chaos scrolls.
 
     #Beginner Skills Configuration
-    USE_ULTRA_NIMBLE_FEET: false     #Massive speed & jump upgrade.
+    USE_ULTRA_NIMBLE_FEET: true     #Massive speed & jump upgrade.
     USE_ULTRA_RECOVERY: false        #Massive recovery amounts overtime.
     USE_ULTRA_THREE_SNAILS: false    #Massive damage on shell toss.
 
     #Other Skills Configuration
-    USE_FULL_ARAN_SKILLSET: false   #Enables starter availability to all Aran job skills. Suggestion thanks to Masterrulax.
+    USE_FULL_ARAN_SKILLSET: true   #Enables starter availability to all Aran job skills. Suggestion thanks to Masterrulax.
     USE_FAST_REUSE_HERO_WILL: true  #Greatly reduce cooldown on Hero's Will.
     USE_ANTI_IMMUNITY_CRASH: false   #Crash skills additionally removes the mob's invincibility buffs. Suggestion thanks to Celestial.
     USE_UNDISPEL_HOLY_SHIELD: false  #Holy shield buff also prevents players from suffering dispel from mobs.
@@ -364,8 +368,8 @@ server:
 
     #Character Configuration
     USE_ADD_SLOTS_BY_LEVEL: false    #Slots are added each 20 levels.
-    USE_ADD_RATES_BY_LEVEL: false    #Rates are added each 20 levels.
-    USE_STACK_COUPON_RATES: false   #Multiple coupons effects builds up together.
+    USE_ADD_RATES_BY_LEVEL: true    #Rates are added each 20 levels.
+    USE_STACK_COUPON_RATES: true   #Multiple coupons effects builds up together.
     USE_PERFECT_PITCH: true         #For lvl 30 or above, each lvlup grants player 1 perfect pitch.
 
     #Quest Configuration
@@ -398,7 +402,7 @@ server:
     USE_SPIKES_AVOID_BANISH: false   #Shoes equipped with spikes prevents mobs from banishing wearer.
     MAX_EQUIPMNT_LVLUP_STAT_UP: 10000   #Max stat upgrade an equipment can have on a levelup.
     MAX_EQUIPMNT_STAT: 32767            #Max stat on an equipment by leveling up.
-    USE_EQUIPMNT_LVLUP: 1               #All equips lvlup at max level of N, set 1 to disable.
+    USE_EQUIPMNT_LVLUP: 8               #All equips lvlup at max level of N, set 1 to disable.
 
     #Map-Chair Configuration
     USE_CHAIR_EXTRAHEAL: false       #Enable map chairs to further recover player's HP and MP (player must have the Chair Mastery skill).
@@ -421,11 +425,11 @@ server:
     PET_AUTOMP_RATIO: 0.99
 
     #Pet & Mount Configuration
-    PET_EXHAUST_COUNT: 3               #Number of proc counts (1 per minute) on the exhaust schedule for fullness.
+    PET_EXHAUST_COUNT: 30               #Number of proc counts (1 per minute) on the exhaust schedule for fullness.
     MOUNT_EXHAUST_COUNT: 1             #Number of proc counts (1 per minute) on the exhaust schedule for tiredness.
 
     #Pet Hunger Configuration
-    PETS_NEVER_HUNGRY: false        #If true, pets and mounts will never grow hungry.
+    PETS_NEVER_HUNGRY: true        #If true, pets and mounts will never grow hungry.
     GM_PETS_NEVER_HUNGRY: true      #If true, pets and mounts owned by GMs will never grow hungry.
 
     #Event Configuration
@@ -453,10 +457,10 @@ server:
     EVENT_END_TIMESTAMP: 1428897600000
 
     # GM Security Configuration
-    MINIMUM_GM_LEVEL_TO_TRADE: 4
-    MINIMUM_GM_LEVEL_TO_USE_STORAGE: 4
-    MINIMUM_GM_LEVEL_TO_USE_DUEY: 4
-    MINIMUM_GM_LEVEL_TO_DROP: 4
+    MINIMUM_GM_LEVEL_TO_TRADE: 1
+    MINIMUM_GM_LEVEL_TO_USE_STORAGE: 1
+    MINIMUM_GM_LEVEL_TO_USE_DUEY: 1
+    MINIMUM_GM_LEVEL_TO_DROP: 1
 
     #Any NPC ids that should search for a js override script (useful if they already have wz entries since otherwise they're ignored).
     NPCS_SCRIPTABLE:

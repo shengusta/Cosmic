@@ -179,6 +179,8 @@ public abstract class AbstractDealDamageHandler extends AbstractPacketHandler {
                         } else if (attack.skill == DawnWarrior.FINAL_ATTACK || attack.skill == WindArcher.FINAL_ATTACK) {
                             // prevent cygnus FA refreshing
                             mobCount = 15;
+                        } else if (attack.skill == Rogue.LUCKY_SEVEN || attack.skill == Rogue.DOUBLE_STAB) {
+                            mobCount = 3;
                         } else if (attack.skill == NightWalker.POISON_BOMB) {// Poison Bomb
                             attackEffect.applyTo(player, new Point(attack.position.x, attack.position.y));
                         } else {

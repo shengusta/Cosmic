@@ -165,7 +165,7 @@ public enum SendOpcode {
     MULTICHAT(0x86),
     WHISPER(0x87),
     SPOUSE_CHAT(0x88),
-    SUMMON_ITEM_INAVAILABLE(0x89), //You can't use it in this map
+    SUMMON_ITEM_INAVAILABLE(0x89), //You can't use it here in this map
 
     FIELD_EFFECT(0x8A),
     FIELD_OBSTACLE_ONOFF(0x8B),

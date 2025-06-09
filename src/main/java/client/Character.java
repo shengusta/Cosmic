@@ -11246,4 +11246,34 @@ public class Character extends AbstractCharacterObject {
     public void setChasing(boolean chasing) {
         this.chasing = chasing;
     }
+
+
+    
+    private String dataSearch;
+    private ArrayList<Integer> dataSearchArr;
+    private String dataSearchType;
+
+    public String getDataSearch() {
+        return dataSearch;
+    }
+
+    public void setDataSearch(String result) {
+        dataSearch = result;
+    }
+
+    public ArrayList<Integer> getDataSearchArr() {
+        return dataSearchArr;
+    }
+
+    public void setDataSearchArr(ArrayList<Integer> arr) {
+        dataSearchArr = arr;
+    }
+
+    public String getDataSearchType() {
+        return dataSearchType;
+    }
+
+    public void setDataSearchType(String dataSearchType) {
+        this.dataSearchType = dataSearchType;
+    }
 }

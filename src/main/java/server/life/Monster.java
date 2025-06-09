@@ -461,7 +461,7 @@ public class Monster extends AbstractLoadedLife {
         }
 
         if (YamlConfig.config.server.USE_DEBUG) {
-            from.dropMessage(5, "Hitted MOB " + this.getId() + ", OID " + this.getObjectId());
+            from.dropMessage(5, "Hit MOB " + this.getId() + ", OID " + this.getObjectId());
         }
 
         if (!fake) {

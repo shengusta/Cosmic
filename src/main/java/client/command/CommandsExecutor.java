@@ -24,6 +24,7 @@
 package client.command;
 
 import client.Client;
+import client.command.commands.gm0.BossHpCommand;
 import client.command.commands.gm0.ChangeLanguageCommand;
 import client.command.commands.gm0.DisposeCommand;
 import client.command.commands.gm0.DropLimitCommand;
@@ -31,15 +32,18 @@ import client.command.commands.gm0.EnableAuthCommand;
 import client.command.commands.gm0.EquipLvCommand;
 import client.command.commands.gm0.GachaCommand;
 import client.command.commands.gm0.GmCommand;
+import client.command.commands.gm0.GotoCommand;
 import client.command.commands.gm0.HelpCommand;
 import client.command.commands.gm0.JoinEventCommand;
 import client.command.commands.gm0.LeaveEventCommand;
 import client.command.commands.gm0.MapOwnerClaimCommand;
+import client.command.commands.gm0.MobHpCommand;
 import client.command.commands.gm0.OnlineCommand;
 import client.command.commands.gm0.RanksCommand;
 import client.command.commands.gm0.RatesCommand;
 import client.command.commands.gm0.ReadPointsCommand;
 import client.command.commands.gm0.ReportBugCommand;
+import client.command.commands.gm0.SearchCommand;
 import client.command.commands.gm0.ShowRatesCommand;
 import client.command.commands.gm0.StaffCommand;
 import client.command.commands.gm0.StatDexCommand;
@@ -49,12 +53,9 @@ import client.command.commands.gm0.StatStrCommand;
 import client.command.commands.gm0.TimeCommand;
 import client.command.commands.gm0.ToggleExpCommand;
 import client.command.commands.gm0.UptimeCommand;
-import client.command.commands.gm1.BossHpCommand;
+import client.command.commands.gm0.WhatDropsFromCommand;
+import client.command.commands.gm0.WhoDropsCommand;
 import client.command.commands.gm1.BuffMeCommand;
-import client.command.commands.gm1.GotoCommand;
-import client.command.commands.gm1.MobHpCommand;
-import client.command.commands.gm1.WhatDropsFromCommand;
-import client.command.commands.gm1.WhoDropsCommand;
 import client.command.commands.gm2.ApCommand;
 import client.command.commands.gm2.BombCommand;
 import client.command.commands.gm2.BuffCommand;
@@ -82,7 +83,6 @@ import client.command.commands.gm2.MobSkillCommand;
 import client.command.commands.gm2.ReachCommand;
 import client.command.commands.gm2.RechargeCommand;
 import client.command.commands.gm2.ResetSkillCommand;
-import client.command.commands.gm2.SearchCommand;
 import client.command.commands.gm2.SetSlotCommand;
 import client.command.commands.gm2.SetStatCommand;
 import client.command.commands.gm2.SpCommand;
@@ -367,6 +367,10 @@ public class CommandsExecutor {
         addCommand("mylawn", MapOwnerClaimCommand.class);
         addCommand("bosshp", BossHpCommand.class);
         addCommand("mobhp", MobHpCommand.class);
+        addCommand("search", SearchCommand.class);
+        addCommand("whatdropsfrom", WhatDropsFromCommand.class);
+        addCommand("whodrops", WhoDropsCommand.class);
+        addCommand("goto", GotoCommand.class);
 
         commandsNameDesc.add(levelCommandsCursor);
     }
@@ -374,11 +378,7 @@ public class CommandsExecutor {
 
     private void registerLv1Commands() {
         levelCommandsCursor = new Pair<>(new ArrayList<String>(), new ArrayList<String>());
-
-        addCommand("whatdropsfrom", 1, WhatDropsFromCommand.class);
-        addCommand("whodrops", 1, WhoDropsCommand.class);
         addCommand("buffme", 1, BuffMeCommand.class);
-        addCommand("goto", 1, GotoCommand.class);
 
         commandsNameDesc.add(levelCommandsCursor);
     }
@@ -386,7 +386,6 @@ public class CommandsExecutor {
 
     private void registerLv2Commands() {
         levelCommandsCursor = new Pair<>(new ArrayList<String>(), new ArrayList<String>());
-
         addCommand("recharge", 2, RechargeCommand.class);
         addCommand("whereami", 2, WhereaMiCommand.class);
         addCommand("hide", 2, HideCommand.class);
@@ -415,7 +414,6 @@ public class CommandsExecutor {
         addCommand("maxstat", 2, MaxStatCommand.class);
         addCommand("maxskill", 2, MaxSkillCommand.class);
         addCommand("resetskill", 2, ResetSkillCommand.class);
-        addCommand("search", 2, SearchCommand.class);
         addCommand("jail", 2, JailCommand.class);
         addCommand("unjail", 2, UnJailCommand.class);
         addCommand("job", 2, JobCommand.class);
