@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Category.img">
+    <subprop name="0">
+        <int name="Category" value="1"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="New"/>
+    </subprop>
+    <subprop name="1">
+        <int name="Category" value="1"/>
+        <int name="CategorySub" value="1"/>
+        <string name="Name" value="Event"/>
+    </subprop>
+    <subprop name="2">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="Hat"/>
+    </subprop>
+    <subprop name="3">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="1"/>
+        <string name="Name" value="Face"/>
+    </subprop>
+    <subprop name="4">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="2"/>
+        <string name="Name" value="Eye"/>
+    </subprop>
+    <subprop name="5">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="3"/>
+        <string name="Name" value="Overall"/>
+    </subprop>
+    <subprop name="6">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="4"/>
+        <string name="Name" value="Top"/>
+    </subprop>
+    <subprop name="7">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="5"/>
+        <string name="Name" value="Bottom"/>
+    </subprop>
+    <subprop name="8">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="6"/>
+        <string name="Name" value="Shoes"/>
+    </subprop>
+    <subprop name="9">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="7"/>
+        <string name="Name" value="Glove"/>
+    </subprop>
+    <subprop name="10">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="8"/>
+        <string name="Name" value="Weapon"/>
+    </subprop>
+    <subprop name="11">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="9"/>
+        <string name="Name" value="Ring"/>
+    </subprop>
+    <subprop name="12">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="10"/>
+        <string name="Name" value="Premium"/>
+    </subprop>
+    <subprop name="13">
+        <int name="Category" value="2"/>
+        <int name="CategorySub" value="11"/>
+        <string name="Name" value="Cape"/>
+    </subprop>
+    <subprop name="14">
+        <int name="Category" value="3"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="Scroll"/>
+    </subprop>
+    <subprop name="16">
+        <int name="Category" value="3"/>
+        <int name="CategorySub" value="2"/>
+        <string name="Name" value="Weather"/>
+    </subprop>
+    <subprop name="17">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="Beauty Parlor"/>
+    </subprop>
+    <subprop name="18">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="1"/>
+        <string name="Name" value="Store"/>
+    </subprop>
+    <subprop name="19">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="2"/>
+        <string name="Name" value="Game"/>
+    </subprop>
+    <subprop name="20">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="3"/>
+        <string name="Name" value="Facial Expression"/>
+    </subprop>
+    <subprop name="21">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="4"/>
+        <string name="Name" value="Wedding"/>
+    </subprop>
+    <subprop name="22">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="5"/>
+        <string name="Name" value="Effect"/>
+    </subprop>
+    <subprop name="23">
+        <int name="Category" value="5"/>
+        <int name="CategorySub" value="6"/>
+        <string name="Name" value="Character"/>
+    </subprop>
+    <subprop name="24">
+        <int name="Category" value="6"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="Pet"/>
+    </subprop>
+    <subprop name="25">
+        <int name="Category" value="6"/>
+        <int name="CategorySub" value="1"/>
+        <string name="Name" value="Pet Equip."/>
+    </subprop>
+    <subprop name="26">
+        <int name="Category" value="6"/>
+        <int name="CategorySub" value="2"/>
+        <string name="Name" value="Pet &quot;Use&quot;"/>
+    </subprop>
+    <subprop name="27">
+        <int name="Category" value="7"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="Package"/>
+    </subprop>
+    <subprop name="28">
+        <string name="Category" value="8"/>
+        <int name="CategorySub" value="0"/>
+        <string name="Name" value="How to Use the Cashshop"/>
+    </subprop>
+    <subprop name="29">
+        <string name="Category" value="8"/>
+        <int name="CategorySub" value="1"/>
+        <string name="Name" value="How to Gift"/>
+    </subprop>
+    <subprop name="15">
+        <int name="Category" value="3"/>
+        <int name="CategorySub" value="1"/>
+        <string name="Name" value="Messenger"/>
+    </subprop>
+</imgdir>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01702224.img">
+    <subprop name="info">
+        <canvas name="icon" width="28" height="29">
+            <vector name="origin" x="0" y="26"/>
+            <string name="_hash" value="0dcb32640c4db656268084565221e1359e1a482c4d306447c05263f42b87ff36"/>
+        </canvas>
+        <canvas name="iconRaw" width="28" height="26">
+            <vector name="origin" x="0" y="26"/>
+            <string name="_hash" value="6ea9768d18d675dbe7bc36ecbeec5b4248294e0dc59bda5feb30418de73db05b"/>
+        </canvas>
+        <string name="islot" value="Wp"/>
+        <string name="vslot" value="Wp"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="21">
+    </subprop>
+    <subprop name="22">
+    </subprop>
+    <subprop name="23">
+    </subprop>
+    <subprop name="24">
+    </subprop>
+    <subprop name="30">
+    </subprop>
+    <subprop name="31">
+    </subprop>
+    <subprop name="32">
+    </subprop>
+    <subprop name="33">
+    </subprop>
+    <subprop name="36">
+    </subprop>
+    <subprop name="37">
+    </subprop>
+    <subprop name="38">
+    </subprop>
+    <subprop name="40">
+    </subprop>
+    <subprop name="41">
+    </subprop>
+    <subprop name="42">
+    </subprop>
+    <subprop name="43">
+    </subprop>
+    <subprop name="44">
+    </subprop>
+    <subprop name="45">
+    </subprop>
+    <subprop name="46">
+    </subprop>
+    <subprop name="47">
+    </subprop>
+    <subprop name="48">
+    </subprop>
+    <subprop name="49">
+    </subprop>
+    <subprop name="52">
+    </subprop>
+    <subprop name="53">
+    </subprop>
+    <uol name="26" value="30"/>
+    <uol name="25" value="30"/>
+    <uol name="27" value="30"/>
+    <uol name="28" value="30"/>
+</imgdir>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="6109021.img">
+    <subprop name="info">
+        <string name="info" value="글로벌 파티 퀘스트 - 불 콘트롤b_h"/>
+        <int name="activateByTouch" value="1"/>
+    </subprop>
+    <subprop name="0">
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="6"/>
+                <int name="state" value="1"/>
+            </subprop>
+        </subprop>
+        <subprop name="hit">
+            <canvas name="0" width="149" height="45">
+                <vector name="origin" x="74" y="22"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <canvas name="0" width="149" height="45">
+            <vector name="origin" x="74" y="22"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="1">
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="7"/>
+                <int name="state" value="0"/>
+            </subprop>
+        </subprop>
+        <uol name="hit" value="../0/hit"/>
+        <canvas name="0" width="149" height="45">
+            <vector name="origin" x="74" y="22"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <string name="action" value="glpqflame1"/>
+</imgdir>

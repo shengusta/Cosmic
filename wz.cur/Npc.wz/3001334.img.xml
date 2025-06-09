@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="3001334.img">
+    <subprop name="info">
+        <subprop name="additionalEffect">
+            <subprop name="0">
+                <string name="type" value="path"/>
+                <string name="path" value="Effect/CharacterEff.img/woodenLef/wing2"/>
+                <int name="z" value="-1"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="58" height="97">
+            <vector name="origin" x="26" y="97"/>
+            <int name="z" value="0"/>
+            <string name="_hash" value="829b97b72df178f48030f98064e3d429c3ae544354927bff0ccdc42828591042"/>
+        </canvas>
+    </subprop>
+    <subprop name="condition1">
+        <subprop name="stand">
+            <canvas name="0" width="58" height="97">
+                <vector name="origin" x="26" y="97"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="34811" value="2"/>
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="condition2">
+        <subprop name="stand">
+            <canvas name="0" width="58" height="97">
+                <vector name="origin" x="26" y="97"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <subprop name="34802">
+            <subprop name="0">
+                <string name="key" value="class5"/>
+                <string name="value" value="1"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="condition3">
+        <subprop name="stand">
+            <canvas name="0" width="58" height="97">
+                <vector name="origin" x="26" y="97"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="34805" value="2"/>
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="condition4">
+        <subprop name="stand">
+            <canvas name="0" width="58" height="97">
+                <vector name="origin" x="26" y="97"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <subprop name="34802">
+            <subprop name="0">
+                <string name="key" value="class3"/>
+                <string name="value" value="1"/>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

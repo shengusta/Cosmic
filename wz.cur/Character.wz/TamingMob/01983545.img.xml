@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01983545.img">
+    <subprop name="info">
+        <canvas name="icon" width="33" height="31">
+            <vector name="origin" x="0" y="31"/>
+            <string name="_hash" value="8627df179c1f91f8fd41c785b5df5e83979c8c6c5fc8d4d9dcb1b49f76bdd3da"/>
+        </canvas>
+        <canvas name="iconRaw" width="33" height="31">
+            <vector name="origin" x="0" y="31"/>
+        </canvas>
+    </subprop>
+    <subprop name="characterAction">
+        <string name="sit" value="sit"/>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <int name="delay" value="120"/>
+            <canvas name="0" width="1" height="1">
+                <vector name="origin" x="0" y="0"/>
+                <string name="z" value="tamingMobRear"/>
+                <subprop name="map">
+                    <vector name="navel" x="-46" y="-115"/>
+                </subprop>
+            </canvas>
+            <string name="forceCharacterAction" value="sit"/>
+            <int name="forceCharacterActionFrameIndex" value="0"/>
+        </subprop>
+        <subprop name="1">
+            <int name="delay" value="120"/>
+            <canvas name="0" width="1" height="1">
+                <vector name="origin" x="0" y="0"/>
+                <string name="z" value="tamingMobRear"/>
+                <subprop name="map">
+                    <vector name="navel" x="-46" y="-116"/>
+                </subprop>
+            </canvas>
+            <string name="forceCharacterAction" value="sit"/>
+            <int name="forceCharacterActionFrameIndex" value="0"/>
+        </subprop>
+        <subprop name="2">
+            <int name="delay" value="120"/>
+            <canvas name="0" width="1" height="1">
+                <vector name="origin" x="0" y="0"/>
+                <string name="z" value="tamingMobRear"/>
+                <subprop name="map">
+                    <vector name="navel" x="-46" y="-115"/>
+                </subprop>
+            </canvas>
+            <string name="forceCharacterAction" value="sit"/>
+            <int name="forceCharacterActionFrameIndex" value="0"/>
+        </subprop>
+        <subprop name="3">
+            <int name="delay" value="120"/>
+            <canvas name="0" width="1" height="1">
+                <vector name="origin" x="0" y="0"/>
+                <string name="z" value="tamingMobRear"/>
+                <subprop name="map">
+                    <vector name="navel" x="-46" y="-114"/>
+                </subprop>
+            </canvas>
+            <string name="forceCharacterAction" value="sit"/>
+            <int name="forceCharacterActionFrameIndex" value="0"/>
+        </subprop>
+    </subprop>
+</imgdir>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01802023.img">
+    <subprop name="info">
+        <canvas name="icon" width="29" height="29">
+            <vector name="origin" x="-1" y="29"/>
+        </canvas>
+        <canvas name="iconRaw" width="29" height="28">
+            <vector name="origin" x="-1" y="29"/>
+        </canvas>
+        <int name="tuc" value="5"/>
+        <int name="reqLevel" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="5000011">
+        <subprop name="stand0">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+            <uol name="1" value="0"/>
+            <uol name="2" value="0"/>
+            <uol name="3" value="0"/>
+        </subprop>
+        <subprop name="stand1">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+            <uol name="1" value="0"/>
+            <uol name="2" value="0"/>
+            <uol name="3" value="0"/>
+            <uol name="4" value="0"/>
+            <uol name="5" value="0"/>
+            <uol name="6" value="0"/>
+            <uol name="7" value="0"/>
+            <uol name="8" value="0"/>
+            <uol name="9" value="0"/>
+        </subprop>
+        <subprop name="scratch">
+            <uol name="0" value="../stand0/0"/>
+            <canvas name="1" width="42" height="40">
+                <vector name="origin" x="26" y="42"/>
+            </canvas>
+            <canvas name="2" width="43" height="40">
+                <vector name="origin" x="27" y="42"/>
+            </canvas>
+            <uol name="3" value="1"/>
+            <uol name="4" value="2"/>
+            <uol name="5" value="../stand0/0"/>
+        </subprop>
+        <subprop name="move">
+            <canvas name="0" width="42" height="40">
+                <vector name="origin" x="30" y="42"/>
+            </canvas>
+            <canvas name="1" width="42" height="38">
+                <vector name="origin" x="28" y="39"/>
+            </canvas>
+            <canvas name="2" width="42" height="41">
+                <vector name="origin" x="29" y="43"/>
+            </canvas>
+        </subprop>
+        <subprop name="jump">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="31" y="43"/>
+            </canvas>
+        </subprop>
+        <subprop name="hungry">
+            <canvas name="0" width="42" height="38">
+                <vector name="origin" x="29" y="40"/>
+            </canvas>
+        </subprop>
+        <subprop name="angry">
+            <canvas name="0" width="42" height="45">
+                <vector name="origin" x="31" y="46"/>
+            </canvas>
+        </subprop>
+        <subprop name="chat">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+        </subprop>
+        <subprop name="hang">
+            <canvas name="0" width="29" height="43">
+                <vector name="origin" x="13" y="69"/>
+            </canvas>
+        </subprop>
+        <subprop name="rise">
+            <canvas name="0" width="42" height="39">
+                <vector name="origin" x="29" y="41"/>
+            </canvas>
+        </subprop>
+        <subprop name="sit">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+        </subprop>
+        <subprop name="dung">
+            <canvas name="0" width="42" height="40">
+                <vector name="origin" x="31" y="41"/>
+            </canvas>
+        </subprop>
+        <subprop name="cry">
+            <canvas name="0" width="42" height="38">
+                <vector name="origin" x="29" y="40"/>
+            </canvas>
+            <uol name="1" value="0"/>
+            <uol name="2" value="0"/>
+            <uol name="3" value="0"/>
+            <uol name="4" value="0"/>
+            <uol name="5" value="0"/>
+            <uol name="6" value="0"/>
+            <uol name="7" value="0"/>
+        </subprop>
+        <subprop name="melong">
+            <canvas name="0" width="42" height="40">
+                <vector name="origin" x="28" y="42"/>
+            </canvas>
+        </subprop>
+        <subprop name="sulk">
+            <canvas name="0" width="43" height="38">
+                <vector name="origin" x="13" y="41"/>
+            </canvas>
+        </subprop>
+        <subprop name="love">
+            <canvas name="0" width="42" height="42">
+                <vector name="origin" x="26" y="45"/>
+            </canvas>
+            <uol name="1" value="0"/>
+            <uol name="2" value="0"/>
+            <uol name="3" value="0"/>
+            <uol name="4" value="0"/>
+            <uol name="5" value="0"/>
+            <uol name="6" value="0"/>
+            <uol name="7" value="0"/>
+            <uol name="8" value="0"/>
+            <uol name="9" value="0"/>
+            <uol name="10" value="0"/>
+            <uol name="11" value="0"/>
+            <uol name="12" value="0"/>
+            <uol name="13" value="0"/>
+        </subprop>
+        <subprop name="play">
+            <canvas name="0" width="42" height="40">
+                <vector name="origin" x="30" y="42"/>
+            </canvas>
+            <canvas name="1" width="42" height="41">
+                <vector name="origin" x="29" y="41"/>
+            </canvas>
+            <uol name="2" value="0"/>
+            <uol name="3" value="1"/>
+        </subprop>
+        <subprop name="sleep">
+            <canvas name="0" width="42" height="37">
+                <vector name="origin" x="30" y="39"/>
+            </canvas>
+            <uol name="1" value="0"/>
+            <uol name="2" value="0"/>
+            <uol name="3" value="0"/>
+            <uol name="4" value="0"/>
+        </subprop>
+        <subprop name="eat">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+            <canvas name="1" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+            <uol name="2" value="0"/>
+            <uol name="3" value="1"/>
+        </subprop>
+        <subprop name="rest0">
+            <canvas name="0" width="42" height="41">
+                <vector name="origin" x="27" y="43"/>
+            </canvas>
+            <uol name="1" value="0"/>
+            <uol name="2" value="0"/>
+            <uol name="3" value="0"/>
+            <uol name="4" value="0"/>
+            <uol name="5" value="0"/>
+            <uol name="6" value="0"/>
+            <uol name="7" value="0"/>
+            <uol name="8" value="0"/>
+            <uol name="9" value="0"/>
+        </subprop>
+        <subprop name="fly">
+            <canvas name="0" width="42" height="40">
+                <vector name="origin" x="30" y="42"/>
+            </canvas>
+            <canvas name="1" width="42" height="41">
+                <vector name="origin" x="29" y="41"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

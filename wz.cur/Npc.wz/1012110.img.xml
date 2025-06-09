@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1012110.img">
+    <subprop name="info">
+        <subprop name="speak">
+            <string name="0" value="n0"/>
+            <string name="1" value="n1"/>
+        </subprop>
+        <string name="link" value="9010005"/>
+    </subprop>
+</imgdir>

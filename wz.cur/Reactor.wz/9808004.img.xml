@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9808004.img">
+    <subprop name="info">
+        <string name="info" value="하이로우 상황판"/>
+        <int name="backTile" value="1"/>
+    </subprop>
+    <subprop name="0">
+        <canvas name="0" width="82" height="91">
+            <vector name="origin" x="41" y="45"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="1">
+        <canvas name="0" width="82" height="91">
+            <vector name="origin" x="41" y="45"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="101"/>
+                <int name="state" value="0"/>
+            </subprop>
+            <int name="timeout" value="3000"/>
+        </subprop>
+    </subprop>
+    <subprop name="2">
+        <canvas name="0" width="82" height="91">
+            <vector name="origin" x="41" y="45"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="101"/>
+                <int name="state" value="0"/>
+            </subprop>
+            <int name="timeout" value="3000"/>
+        </subprop>
+    </subprop>
+    <subprop name="3">
+        <canvas name="0" width="82" height="91">
+            <vector name="origin" x="41" y="45"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+</imgdir>

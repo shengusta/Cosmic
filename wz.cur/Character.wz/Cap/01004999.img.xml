@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01004999.img">
+    <subprop name="info">
+        <canvas name="icon" width="36" height="34">
+            <vector name="origin" x="2" y="34"/>
+            <string name="_hash" value="fe9da5b6e9b661a01c56db857d4ef463179883dadddaee7bfd0ade3f952a7b6f"/>
+        </canvas>
+        <canvas name="iconRaw" width="36" height="33">
+            <vector name="origin" x="2" y="34"/>
+            <string name="_hash" value="932470ff342864d9b5901b6b273092414047aa58ea6bb06261c5347bdb47d31e"/>
+        </canvas>
+        <string name="islot" value="Cp"/>
+        <string name="vslot" value="CpH5"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="56" height="27">
+            <vector name="origin" x="25" y="32"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="capOverHair"/>
+            <string name="_hash" value="7001ce9d06f19d55b5734ad59f3e61eccea6795a9becae080d50d25173219b63"/>
+        </canvas>
+    </subprop>
+    <subprop name="backDefault">
+        <canvas name="default" width="56" height="28">
+            <vector name="origin" x="22" y="28"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="backCapAccessory"/>
+            <string name="_hash" value="e491a663b5fff154f50d618175a8bf6d1354366d0e14ebbd71b1fa98f187dd95"/>
+        </canvas>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="default" width="56" height="27">
+                <vector name="origin" x="25" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="56" height="27">
+                <vector name="origin" x="25" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="3f0c143905fdda382cbedbaa822fc650377940254d367e5547cfe9d312952d79"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="55" height="27">
+                <vector name="origin" x="24" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="066918a0c54701472af2359971991a5dacd211544201ac36bf406cad20418301"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="56" height="27">
+                <vector name="origin" x="25" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="568379622690b4e07574e898836621eb46717c777c4286e017f6cb69f35ffd0a"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+        <uol name="2" value="../walk1/2"/>
+        <uol name="3" value="../walk1/3"/>
+    </subprop>
+    <subprop name="stand1">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+        <uol name="2" value="../walk1/2"/>
+    </subprop>
+    <subprop name="stand2">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+        <uol name="2" value="../walk1/2"/>
+    </subprop>
+    <subprop name="alert">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+        <uol name="2" value="../walk1/2"/>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+    </subprop>
+    <subprop name="stabO2">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="4">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <uol name="0" value="../walk1/0"/>
+        <uol name="1" value="../walk1/1"/>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <canvas name="default" width="56" height="28">
+                <vector name="origin" x="22" y="28"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCapAccessory"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="56" height="28">
+                <vector name="origin" x="22" y="28"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCapAccessory"/>
+                <string name="_hash" value="44f5337779b3d373102ddec9e2d9f7f8a4f362c2be031cd7ec293e5f253d525c"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <canvas name="default" width="56" height="28">
+                <vector name="origin" x="22" y="28"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCapAccessory"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="56" height="28">
+                <vector name="origin" x="22" y="28"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCapAccessory"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

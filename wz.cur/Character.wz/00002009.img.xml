@@ -1,0 +1,4428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="00002009.img">
+    <subprop name="info">
+        <string name="islot" value="Bd"/>
+        <string name="vslot" value="Bd"/>
+        <int name="cash" value="0"/>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="body" width="27" height="32">
+                <vector name="origin" x="19" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="12" height="17">
+                <vector name="origin" x="6" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-12" y="2"/>
+                    <vector name="hand" x="1" y="5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="26" height="32">
+                <vector name="origin" x="16" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-31"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="17">
+                <vector name="origin" x="6" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="-1"/>
+                    <vector name="hand" x="-2" y="5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="24" height="32">
+                <vector name="origin" x="19" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="12" height="17">
+                <vector name="origin" x="6" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-12" y="2"/>
+                    <vector name="hand" x="1" y="6"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="body" width="29" height="31">
+                <vector name="origin" x="21" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="14" height="15">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-13" y="4"/>
+                    <vector name="hand" x="3" y="5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <canvas name="body" width="21" height="31">
+                <vector name="origin" x="13" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="13">
+                <vector name="origin" x="6" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="3"/>
+                    <vector name="hand" x="-2" y="2"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="16">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="2"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="26" height="30">
+                <vector name="origin" x="16" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-31"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="13">
+                <vector name="origin" x="6" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="-5" y="2"/>
+                    <vector name="hand" x="-2" y="2"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="16">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="7" y="1"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="18" height="32">
+                <vector name="origin" x="13" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="13">
+                <vector name="origin" x="6" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="3"/>
+                    <vector name="hand" x="-2" y="2"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="16">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="2"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="body" width="23" height="30">
+                <vector name="origin" x="15" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="13">
+                <vector name="origin" x="5" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="4"/>
+                    <vector name="hand" x="-1" y="4"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="15">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="5" y="3"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="body" width="21" height="31">
+                <vector name="origin" x="16" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-8" y="-21"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="10" height="19">
+                <vector name="origin" x="5" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="-13" y="-1"/>
+                    <vector name="hand" x="-1" y="5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="22" height="31">
+                <vector name="origin" x="17" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-7" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="10" height="19">
+                <vector name="origin" x="5" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="-13" y="0"/>
+                    <vector name="hand" x="-1" y="5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="23" height="31">
+                <vector name="origin" x="18" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-21"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="11" height="19">
+                <vector name="origin" x="6" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="-13" y="-1"/>
+                    <vector name="hand" x="-1" y="5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <canvas name="body" width="20" height="31">
+                <vector name="origin" x="15" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-8" y="-21"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="9" height="13">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-11" y="1"/>
+                    <vector name="hand" x="-6" y="1"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="16">
+                <vector name="origin" x="4" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="-7"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="20" height="31">
+                <vector name="origin" x="15" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-7" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="9" height="13">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-11" y="2"/>
+                    <vector name="hand" x="-6" y="1"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="16">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="2"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="20" height="31">
+                <vector name="origin" x="15" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-21"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="9" height="13">
+                <vector name="origin" x="6" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-10" y="1"/>
+                    <vector name="hand" x="-5" y="1"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="19" height="16">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="1"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="body" width="24" height="29">
+                <vector name="origin" x="16" y="29"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-29"/>
+                    <vector name="navel" x="-3" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="8" height="14">
+                <vector name="origin" x="6" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-11" y="1"/>
+                    <vector name="hand" x="-5" y="5"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="lHand" width="8" height="9">
+                <vector name="origin" x="15" y="24"/>
+                <subprop name="map">
+                    <vector name="handMove" x="-11" y="-20"/>
+                </subprop>
+                <string name="z" value="handBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="rHand" width="8" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="-4" y="-2"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="24" height="30">
+                <vector name="origin" x="16" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-30"/>
+                    <vector name="navel" x="-3" y="-19"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="8" height="15">
+                <vector name="origin" x="7" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-11" y="1"/>
+                    <vector name="hand" x="-6" y="6"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="lHand" width="8" height="9">
+                <vector name="origin" x="15" y="23"/>
+                <subprop name="map">
+                    <vector name="handMove" x="-13" y="-19"/>
+                </subprop>
+                <string name="z" value="handBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="rHand" width="8" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="-4" y="-4"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="24" height="31">
+                <vector name="origin" x="16" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-31"/>
+                    <vector name="navel" x="-3" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="7" height="16">
+                <vector name="origin" x="6" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="-11" y="-1"/>
+                    <vector name="hand" x="-5" y="5"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="lHand" width="8" height="9">
+                <vector name="origin" x="15" y="22"/>
+                <subprop name="map">
+                    <vector name="handMove" x="-15" y="-17"/>
+                </subprop>
+                <string name="z" value="handBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="rHand" width="8" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="-4" y="-6"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="500"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <canvas name="body" width="28" height="27">
+                <vector name="origin" x="11" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-9" y="-26"/>
+                    <vector name="navel" x="-1" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="8" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="5" y="2"/>
+                    <vector name="hand" x="0" y="2"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="19" height="31">
+                <vector name="origin" x="11" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-10" y="-31"/>
+                    <vector name="navel" x="-8" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="15">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="5" y="4"/>
+                    <vector name="hand" x="-3" y="5"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="38" height="27">
+                <vector name="origin" x="38" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-37" y="-25"/>
+                    <vector name="navel" x="-29" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="22" height="18">
+                <vector name="origin" x="6" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-8" y="18"/>
+                    <vector name="hand" x="11" y="-1"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="body" width="24" height="31">
+                <vector name="origin" x="18" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-6" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="23" height="14">
+                <vector name="origin" x="11" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="11" y="12"/>
+                    <vector name="hand" x="-6" y="-4"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="28" height="31">
+                <vector name="origin" x="21" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-13" y="-30"/>
+                    <vector name="navel" x="-8" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="24" height="11">
+                <vector name="origin" x="12" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="13" y="9"/>
+                    <vector name="hand" x="-8" y="8"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="36" height="29">
+                <vector name="origin" x="30" y="29"/>
+                <subprop name="map">
+                    <vector name="neck" x="-17" y="-27"/>
+                    <vector name="navel" x="-11" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="19" height="16">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-14" y="3"/>
+                    <vector name="hand" x="5" y="4"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <canvas name="body" width="47" height="27">
+                <vector name="origin" x="36" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-11" y="-27"/>
+                    <vector name="navel" x="-8" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="21" height="11">
+                <vector name="origin" x="11" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-14" y="10"/>
+                    <vector name="hand" x="6" y="-3"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="20" height="30">
+                <vector name="origin" x="28" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-31" y="-28"/>
+                    <vector name="navel" x="-24" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="22" height="13">
+                <vector name="origin" x="12" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="11" y="5"/>
+                    <vector name="hand" x="-9" y="2"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="28" height="27">
+                <vector name="origin" x="36" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-34" y="-26"/>
+                    <vector name="navel" x="-30" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="8" height="9">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-2" y="1"/>
+                    <vector name="hand" x="-9" y="0"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="body" width="32" height="31">
+                <vector name="origin" x="22" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-14" y="-26"/>
+                    <vector name="navel" x="-7" y="-17"/>
+                    <vector name="hand" x="12" y="-24"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="9" height="9">
+                <vector name="origin" x="13" y="24"/>
+                <subprop name="map">
+                    <vector name="navel" x="-27" y="-12"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="32" height="41">
+                <vector name="origin" x="26" y="47"/>
+                <subprop name="map">
+                    <vector name="neck" x="-9" y="-42"/>
+                    <vector name="navel" x="-13" y="-31"/>
+                    <vector name="hand" x="3" y="-35"/>
+                </subprop>
+                <string name="z" value="backBody"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="0"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="29" height="34">
+                <vector name="origin" x="44" y="38"/>
+                <subprop name="map">
+                    <vector name="neck" x="-29" y="-38"/>
+                    <vector name="navel" x="-27" y="-25"/>
+                    <vector name="hand" x="-41" y="-35"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="body" width="39" height="32">
+                <vector name="origin" x="55" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-52" y="-21"/>
+                    <vector name="navel" x="-39" y="-12"/>
+                    <vector name="hand" x="-19" y="-28"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="12" height="20">
+                <vector name="origin" x="11" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="8" y="-1"/>
+                    <vector name="hand" x="28" y="-14"/>
+                </subprop>
+                <string name="z" value="armBelowHeadOverMailChest"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <canvas name="body" width="22" height="31">
+                <vector name="origin" x="19" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-8" y="-21"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="16" height="20">
+                <vector name="origin" x="5" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="-3" y="18"/>
+                    <vector name="hand" x="6" y="-5"/>
+                </subprop>
+                <string name="z" value="armOverHairBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="armOverHair" width="18" height="24">
+                <vector name="origin" x="9" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="-15" y="17"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="28" height="31">
+                <vector name="origin" x="25" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-19" y="-30"/>
+                    <vector name="navel" x="-13" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="18" height="15">
+                <vector name="origin" x="10" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="13" y="6"/>
+                    <vector name="hand" x="-6" y="-6"/>
+                </subprop>
+                <string name="z" value="armOverHairBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="armOverHair" width="20" height="19">
+                <vector name="origin" x="9" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="10" y="12"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="39" height="28">
+                <vector name="origin" x="35" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-33" y="-25"/>
+                    <vector name="navel" x="-23" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="17" height="22">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="10" y="-2"/>
+                    <vector name="hand" x="-6" y="10"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <canvas name="body" width="30" height="37">
+                <vector name="origin" x="23" y="37"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-30"/>
+                    <vector name="navel" x="-8" y="-18"/>
+                    <vector name="hand" x="-9" y="-32"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="38" height="31">
+                <vector name="origin" x="33" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-13" y="-30"/>
+                    <vector name="navel" x="-12" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="24" height="9">
+                <vector name="origin" x="12" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="9" y="-1"/>
+                    <vector name="hand" x="-6" y="-6"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="37" height="28">
+                <vector name="origin" x="32" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-33" y="-24"/>
+                    <vector name="navel" x="-21" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="25" height="23">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-1" y="4"/>
+                    <vector name="hand" x="4" y="10"/>
+                </subprop>
+                <string name="z" value="armBelowHeadOverMailChest"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <canvas name="body" width="30" height="31">
+                <vector name="origin" x="14" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-30"/>
+                    <vector name="navel" x="-1" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="18" height="15">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-5" y="0"/>
+                    <vector name="hand" x="3" y="3"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="28" height="25">
+                <vector name="origin" x="18" y="25"/>
+                <subprop name="map">
+                    <vector name="neck" x="-16" y="-24"/>
+                    <vector name="navel" x="-10" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="24" height="16">
+                <vector name="origin" x="10" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="-2" y="-2"/>
+                    <vector name="hand" x="10" y="2"/>
+                </subprop>
+                <string name="z" value="armBelowHeadOverMailChest"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="38" height="40">
+                <vector name="origin" x="25" y="40"/>
+                <subprop name="map">
+                    <vector name="neck" x="-20" y="-27"/>
+                    <vector name="navel" x="-13" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="14" height="17">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="9" y="12"/>
+                    <vector name="hand" x="-2" y="-4"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <canvas name="body" width="19" height="48">
+                <vector name="origin" x="14" y="48"/>
+                <subprop name="map">
+                    <vector name="neck" x="-5" y="-32"/>
+                    <vector name="navel" x="-5" y="-21"/>
+                    <vector name="hand" x="-6" y="-45"/>
+                </subprop>
+                <string name="z" value="backBody"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="0"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="22" height="41">
+                <vector name="origin" x="19" y="41"/>
+                <subprop name="map">
+                    <vector name="neck" x="-9" y="-33"/>
+                    <vector name="navel" x="-9" y="-22"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="12">
+                <vector name="origin" x="10" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="-12" y="7"/>
+                    <vector name="hand" x="-1" y="-7"/>
+                </subprop>
+                <string name="z" value="armBelowHeadOverMailChest"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="27" height="30">
+                <vector name="origin" x="25" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-22" y="-30"/>
+                    <vector name="navel" x="-17" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="21" height="29">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="26"/>
+                    <vector name="hand" x="3" y="-4"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="body" width="42" height="28">
+                <vector name="origin" x="41" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-37" y="-24"/>
+                    <vector name="navel" x="-24" y="-15"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="17" height="22">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="12" y="0"/>
+                    <vector name="hand" x="-6" y="10"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <canvas name="body" width="22" height="31">
+                <vector name="origin" x="19" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-7" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="15" height="23">
+                <vector name="origin" x="5" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="3" y="21"/>
+                    <vector name="hand" x="5" y="-5"/>
+                </subprop>
+                <string name="z" value="armOverHairBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="armOverHair" width="18" height="25">
+                <vector name="origin" x="9" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="-14" y="19"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="41" height="31">
+                <vector name="origin" x="38" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-19" y="-30"/>
+                    <vector name="navel" x="-13" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="20" height="19">
+                <vector name="origin" x="10" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="9" y="16"/>
+                    <vector name="hand" x="-6" y="-6"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="39" height="28">
+                <vector name="origin" x="35" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-33" y="-25"/>
+                    <vector name="navel" x="-23" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="17" height="22">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="10" y="-1"/>
+                    <vector name="hand" x="-6" y="10"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <canvas name="body" width="25" height="48">
+                <vector name="origin" x="18" y="48"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-7" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="23" height="16">
+                <vector name="origin" x="5" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="17" y="9"/>
+                    <vector name="hand" x="0" y="-5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="38" height="43">
+                <vector name="origin" x="31" y="43"/>
+                <subprop name="map">
+                    <vector name="neck" x="-13" y="-30"/>
+                    <vector name="navel" x="-9" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="25" height="10">
+                <vector name="origin" x="10" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="13" y="-3"/>
+                    <vector name="hand" x="-6" y="-5"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="37" height="28">
+                <vector name="origin" x="28" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-29" y="-24"/>
+                    <vector name="navel" x="-17" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="25" height="23">
+                <vector name="origin" x="10" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-1" y="4"/>
+                    <vector name="hand" x="5" y="11"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <canvas name="body" width="46" height="28">
+                <vector name="origin" x="31" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-11" y="-27"/>
+                    <vector name="navel" x="-12" y="-15"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="19" height="18">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-14" y="10"/>
+                    <vector name="hand" x="6" y="7"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="10" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="19" y="3"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="44" height="27">
+                <vector name="origin" x="31" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-11" y="-26"/>
+                    <vector name="navel" x="-12" y="-14"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="19" height="14">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-14" y="9"/>
+                    <vector name="hand" x="6" y="3"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="10" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="17" y="-1"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="21" height="43">
+                <vector name="origin" x="30" y="59"/>
+                <subprop name="map">
+                    <vector name="neck" x="-21" y="-58"/>
+                    <vector name="navel" x="-18" y="-46"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="18" height="24">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-8" y="25"/>
+                    <vector name="hand" x="6" y="-4"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="armOverHair" width="15" height="23">
+                <vector name="origin" x="9" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="5" y="17"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="body" width="23" height="28">
+                <vector name="origin" x="50" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-48" y="-24"/>
+                    <vector name="navel" x="-36" y="-15"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="17" height="22">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="15" y="0"/>
+                    <vector name="hand" x="-8" y="6"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="body" width="39" height="29">
+                <vector name="origin" x="30" y="29"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-29"/>
+                    <vector name="navel" x="-5" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="14" height="18">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-12" y="4"/>
+                    <vector name="hand" x="2" y="7"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="34" height="27">
+                <vector name="origin" x="25" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-23" y="-26"/>
+                    <vector name="navel" x="-14" y="-15"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="26" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="23" y="5"/>
+                    <vector name="hand" x="-3" y="-2"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="450"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="body" width="38" height="33">
+                <vector name="origin" x="30" y="33"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-5" y="-20"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="12" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-13" y="9"/>
+                    <vector name="hand" x="-2" y="-3"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="36" height="27">
+                <vector name="origin" x="26" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-26" y="-25"/>
+                    <vector name="navel" x="-16" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="25" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="20" y="4"/>
+                    <vector name="hand" x="-3" y="-3"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="450"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="body" width="20" height="26">
+                <vector name="origin" x="8" y="26"/>
+                <subprop name="map">
+                    <vector name="neck" x="-5" y="-25"/>
+                    <vector name="navel" x="4" y="-13"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="15" height="16">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-4" y="6"/>
+                    <vector name="hand" x="3" y="5"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="250"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="52" height="32">
+                <vector name="origin" x="53" y="34"/>
+                <subprop name="map">
+                    <vector name="neck" x="-30" y="-30"/>
+                    <vector name="navel" x="-18" y="-21"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="18" height="15">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-5" y="2"/>
+                    <vector name="hand" x="-28" y="8"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="48" height="27">
+                <vector name="origin" x="60" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="-50" y="-24"/>
+                    <vector name="navel" x="-37" y="-15"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="28" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="25" y="4"/>
+                    <vector name="hand" x="2" y="10"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <canvas name="body" width="27" height="32">
+                <vector name="origin" x="25" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-18" y="-28"/>
+                    <vector name="navel" x="-9" y="-19"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="25" height="15">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-7" y="6"/>
+                    <vector name="hand" x="13" y="4"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="10" height="8">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="2" y="-3"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="32" height="29">
+                <vector name="origin" x="32" y="29"/>
+                <subprop name="map">
+                    <vector name="neck" x="-31" y="-24"/>
+                    <vector name="navel" x="-24" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="20" height="16">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-9" y="6"/>
+                    <vector name="hand" x="8" y="5"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="10" height="8">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="5" y="-4"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="57" height="25">
+                <vector name="origin" x="58" y="25"/>
+                <subprop name="map">
+                    <vector name="neck" x="-35" y="-23"/>
+                    <vector name="navel" x="-29" y="-14"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="21" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="4"/>
+                    <vector name="hand" x="-3" y="0"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="10" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="25" y="4"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <canvas name="body" width="26" height="32">
+                <vector name="origin" x="15" y="32"/>
+                <subprop name="map">
+                    <vector name="neck" x="-9" y="-29"/>
+                    <vector name="navel" x="-2" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="15" height="17">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-10" y="8"/>
+                    <vector name="hand" x="3" y="8"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="10" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="12" y="-3"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="33" height="29">
+                <vector name="origin" x="23" y="29"/>
+                <subprop name="map">
+                    <vector name="neck" x="-25" y="-22"/>
+                    <vector name="navel" x="-10" y="-16"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="21" height="17">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-3" y="9"/>
+                    <vector name="hand" x="9" y="6"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="9" height="10">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="15" y="-2"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="52" height="26">
+                <vector name="origin" x="43" y="26"/>
+                <subprop name="map">
+                    <vector name="neck" x="-28" y="-23"/>
+                    <vector name="navel" x="-19" y="-14"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="20">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-8" y="5"/>
+                    <vector name="hand" x="-2" y="9"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="hand" width="11" height="10">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="26" y="4"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="body" value="../../swingPF/0/body"/>
+            <uol name="arm" value="../../swingPF/0/arm"/>
+            <uol name="hand" value="../../swingPF/0/hand"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="body" value="../../swingPF/1/body"/>
+            <uol name="arm" value="../../swingPF/1/arm"/>
+            <uol name="hand" value="../../swingPF/1/hand"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="21" height="43">
+                <vector name="origin" x="30" y="59"/>
+                <subprop name="map">
+                    <vector name="neck" x="-21" y="-58"/>
+                    <vector name="navel" x="-18" y="-46"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="26" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-10" y="9"/>
+                    <vector name="hand" x="4" y="-20"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="armOverHair" width="23" height="12">
+                <vector name="origin" x="9" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="-3" y="-4"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="body" value="../../stabT1/2/body"/>
+            <uol name="arm" value="../../stabT1/2/arm"/>
+            <uol name="hand" value="../../stabT1/2/hand"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <canvas name="body" width="37" height="31">
+                <vector name="origin" x="31" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-4" y="-19"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="23" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="6" y="9"/>
+                    <vector name="hand" x="-3" y="-3"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="37" height="31">
+                <vector name="origin" x="31" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-4" y="-19"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="16" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-8" y="9"/>
+                    <vector name="hand" x="-3" y="-3"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="body" value="../1/body"/>
+            <uol name="arm" value="../1/arm"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <canvas name="body" width="31" height="30">
+                <vector name="origin" x="24" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-5" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="16" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="5"/>
+                    <vector name="hand" x="-2" y="0"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="160"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="31" height="30">
+                <vector name="origin" x="24" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-5" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="23" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="8" y="10"/>
+                    <vector name="hand" x="11" y="5"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="160"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="body" width="31" height="30">
+                <vector name="origin" x="24" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-5" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="16" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-5" y="9"/>
+                    <vector name="hand" x="-17" y="-2"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="250"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="body" width="31" height="30">
+                <vector name="origin" x="24" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-5" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="16" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="4"/>
+                    <vector name="hand" x="-5" y="-8"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="4">
+            <canvas name="body" width="29" height="30">
+                <vector name="origin" x="22" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-31"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="16" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-8" y="5"/>
+                    <vector name="hand" x="-8" y="-8"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <canvas name="body" width="38" height="36">
+                <vector name="origin" x="32" y="36"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-32"/>
+                    <vector name="navel" x="-3" y="-19"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="21" height="12">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="5" y="11"/>
+                    <vector name="hand" x="-3" y="-2"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="43" height="35">
+                <vector name="origin" x="34" y="35"/>
+                <subprop name="map">
+                    <vector name="neck" x="-3" y="-31"/>
+                    <vector name="navel" x="-3" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="15" height="14">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-9" y="8"/>
+                    <vector name="hand" x="-2" y="-3"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="body" value="../1/body"/>
+            <uol name="arm" value="../1/arm"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="250"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <canvas name="body" width="63" height="15">
+                <vector name="origin" x="47" y="15"/>
+                <subprop name="map">
+                    <vector name="neck" x="-23" y="-4"/>
+                    <vector name="navel" x="-7" y="-3"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="20" height="10">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="7" y="0"/>
+                    <vector name="hand" x="-2" y="-2"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="63" height="15">
+                <vector name="origin" x="47" y="15"/>
+                <subprop name="map">
+                    <vector name="neck" x="-23" y="-4"/>
+                    <vector name="navel" x="-7" y="-3"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="28" height="9">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="22" y="-1"/>
+                    <vector name="hand" x="-3" y="-2"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="400"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="body" value="../../proneStab/0/body"/>
+            <uol name="arm" value="../../proneStab/0/arm"/>
+            <short name="face" value="1"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="body" value="../../alert/1/body"/>
+            <uol name="arm" value="../../alert/1/arm"/>
+            <uol name="lHand" value="../../alert/1/lHand"/>
+            <uol name="rHand" value="../../alert/1/rHand"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="28" height="31">
+                <vector name="origin" x="19" y="31"/>
+                <subprop name="map">
+                    <vector name="neck" x="-11" y="-30"/>
+                    <vector name="navel" x="-6" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="24" height="11">
+                <vector name="origin" x="12" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="13" y="9"/>
+                    <vector name="hand" x="-8" y="8"/>
+                </subprop>
+                <string name="z" value="armBelowHead"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="body" value="../../swingO2/0/body"/>
+            <uol name="arm" value="../../swingO2/0/arm"/>
+            <short name="face" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="body" width="24" height="37">
+                <vector name="origin" x="12" y="37"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-37"/>
+                    <vector name="navel" x="-4" y="-24"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="11">
+                <vector name="origin" x="6" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-5" y="5"/>
+                    <vector name="hand" x="-2" y="-4"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="lHand" width="8" height="9">
+                <vector name="origin" x="13" y="24"/>
+                <subprop name="map">
+                    <vector name="navel" x="-1" y="-16"/>
+                </subprop>
+                <string name="z" value="handBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="rHand" width="9" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="-3" y="9"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="20" height="37">
+                <vector name="origin" x="12" y="37"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-37"/>
+                    <vector name="navel" x="-4" y="-24"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="11">
+                <vector name="origin" x="6" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="-5" y="5"/>
+                    <vector name="hand" x="-3" y="-3"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="lHand" width="8" height="9">
+                <vector name="origin" x="13" y="24"/>
+                <subprop name="map">
+                    <vector name="navel" x="-1" y="-16"/>
+                </subprop>
+                <string name="z" value="handBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="rHand" width="9" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="-3" y="9"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="body" width="35" height="30">
+                <vector name="origin" x="22" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="-4" y="-30"/>
+                    <vector name="navel" x="-5" y="-18"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="13" height="11">
+                <vector name="origin" x="7" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-7" y="5"/>
+                    <vector name="hand" x="-3" y="-3"/>
+                </subprop>
+                <string name="z" value="armOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="lHand" width="8" height="9">
+                <vector name="origin" x="13" y="24"/>
+                <subprop name="map">
+                    <vector name="navel" x="-2" y="-17"/>
+                </subprop>
+                <string name="z" value="handBelowWeapon"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="rHand" width="9" height="9">
+                <vector name="origin" x="4" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="-4" y="8"/>
+                </subprop>
+                <string name="z" value="handOverHair"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="body" width="25" height="25">
+                <vector name="origin" x="19" y="28"/>
+                <subprop name="map">
+                    <vector name="neck" x="-1" y="-28"/>
+                    <vector name="navel" x="-2" y="-17"/>
+                </subprop>
+                <string name="z" value="body"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <canvas name="arm" width="11" height="15">
+                <vector name="origin" x="5" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="-4" y="2"/>
+                    <vector name="hand" x="-1" y="-7"/>
+                </subprop>
+                <string name="z" value="arm"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="1"/>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <canvas name="body" width="23" height="43">
+                <vector name="origin" x="11" y="43"/>
+                <subprop name="map">
+                    <vector name="neck" x="-1" y="-30"/>
+                    <vector name="navel" x="0" y="-21"/>
+                    <vector name="hand" x="-4" y="-39"/>
+                </subprop>
+                <string name="z" value="backBody"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="0"/>
+            <int name="delay" value="250"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="23" height="43">
+                <vector name="origin" x="10" y="41"/>
+                <subprop name="map">
+                    <vector name="neck" x="2" y="-28"/>
+                    <vector name="navel" x="2" y="-19"/>
+                    <vector name="hand" x="7" y="-38"/>
+                </subprop>
+                <string name="z" value="backBody"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="0"/>
+            <int name="delay" value="250"/>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <canvas name="body" width="19" height="43">
+                <vector name="origin" x="8" y="43"/>
+                <subprop name="map">
+                    <vector name="neck" x="1" y="-33"/>
+                    <vector name="navel" x="2" y="-24"/>
+                    <vector name="hand" x="1" y="-39"/>
+                </subprop>
+                <string name="z" value="backBody"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="0"/>
+            <int name="delay" value="250"/>
+        </subprop>
+        <subprop name="1">
+            <canvas name="body" width="19" height="30">
+                <vector name="origin" x="8" y="30"/>
+                <subprop name="map">
+                    <vector name="neck" x="1" y="-28"/>
+                    <vector name="navel" x="1" y="-18"/>
+                    <vector name="hand" x="1" y="-29"/>
+                </subprop>
+                <string name="z" value="backBody"/>
+                <string name="group" value="skin"/>
+            </canvas>
+            <short name="face" value="0"/>
+            <int name="delay" value="250"/>
+        </subprop>
+    </subprop>
+    <subprop name="dead">
+        <subprop name="0">
+            <canvas name="body" width="28" height="28">
+                <vector name="origin" x="13" y="27"/>
+                <subprop name="map">
+                    <vector name="neck" x="1" y="-28"/>
+                </subprop>
+                <string name="z" value="body"/>
+            </canvas>
+            <short name="face" value="1"/>
+        </subprop>
+    </subprop>
+    <subprop name="savage">
+        <subprop name="0">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="proneStab"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingO1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert2">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert3">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-500"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-500"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="500"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert4">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert5">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert6">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="330"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="330"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="330"/>
+        </subprop>
+    </subprop>
+    <subprop name="paralyze">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-400"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="ladder2">
+        <subprop name="0">
+            <string name="action" value="ladder"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="ladder"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="rope2">
+        <subprop name="0">
+            <string name="action" value="rope"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="rope"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot6">
+        <subprop name="0">
+            <string name="action" value="shootF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-480"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="shootF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-160"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="shootF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="260"/>
+        </subprop>
+    </subprop>
+    <subprop name="magic1">
+        <subprop name="0">
+            <string name="action" value="shootF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-900"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="magic2">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-350"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="350"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="350"/>
+        </subprop>
+    </subprop>
+    <subprop name="magic3">
+        <subprop name="0">
+            <string name="action" value="stand1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stand1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stand1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="magic4">
+        <subprop name="0">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-800"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="burster1">
+        <subprop name="0">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="stabTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+    </subprop>
+    <subprop name="burster2">
+        <subprop name="0">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="stabTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="150"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="stabT2"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="150"/>
+        </subprop>
+    </subprop>
+    <subprop name="avenger">
+        <subprop name="0">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-720"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="60"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="60"/>
+        </subprop>
+    </subprop>
+    <subprop name="assaulter">
+        <subprop name="0">
+            <string name="action" value="swingO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-600"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="600"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone2">
+        <subprop name="0">
+            <string name="action" value="proneStab"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-700"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="proneStab"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="assassination">
+        <subprop name="0">
+            <string name="action" value="stand1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-540"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-80"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-80"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="80"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="320"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="80"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="80"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="80"/>
+        </subprop>
+        <subprop name="8">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="80"/>
+        </subprop>
+        <subprop name="9">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="80"/>
+        </subprop>
+        <subprop name="10">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="320"/>
+        </subprop>
+    </subprop>
+    <subprop name="assassinationS">
+        <subprop name="0">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="60"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="180"/>
+        </subprop>
+    </subprop>
+    <subprop name="rush">
+        <subprop name="0">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabT1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="500"/>
+        </subprop>
+    </subprop>
+    <subprop name="rush2">
+        <subprop name="0">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="100"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="500"/>
+        </subprop>
+    </subprop>
+    <subprop name="sanctuary">
+        <subprop name="0">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-1080"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="480"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="720"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="360"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="360"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="180"/>
+        </subprop>
+    </subprop>
+    <subprop name="meteor">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-360"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-1800"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="1320"/>
+        </subprop>
+    </subprop>
+    <subprop name="blizzard">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-360"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-1800"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="1320"/>
+        </subprop>
+    </subprop>
+    <subprop name="genesis">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-900"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-900"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="900"/>
+        </subprop>
+    </subprop>
+    <subprop name="brandish1">
+        <subprop name="0">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+    </subprop>
+    <subprop name="brandish2">
+        <subprop name="0">
+            <string name="action" value="swingT3"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingT3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingT3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="120"/>
+        </subprop>
+    </subprop>
+    <subprop name="ninjastorm">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-480"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="210"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="240"/>
+        </subprop>
+    </subprop>
+    <subprop name="chainlightning">
+        <subprop name="0">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-540"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="240"/>
+        </subprop>
+    </subprop>
+    <subprop name="blast">
+        <subprop name="0">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-540"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="showdown">
+        <subprop name="0">
+            <string name="action" value="proneStab"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-900"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-90"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-90"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-90"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="180"/>
+        </subprop>
+    </subprop>
+    <subprop name="smokeshell">
+        <subprop name="0">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="-180"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-360"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="270"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="270"/>
+        </subprop>
+    </subprop>
+    <subprop name="holyshield">
+        <subprop name="0">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="840"/>
+        </subprop>
+    </subprop>
+    <subprop name="resurrection">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-840"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-840"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="840"/>
+        </subprop>
+    </subprop>
+    <subprop name="flickerjab">
+        <subprop name="0">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="360"/>
+        </subprop>
+    </subprop>
+    <subprop name="straight">
+        <subprop name="0">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabT2"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="200"/>
+        </subprop>
+    </subprop>
+    <subprop name="somersault">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingPF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="35" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-10" y="-8"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-30" y="-112"/>
+            <int name="rotate" value="180"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-13" y="-115"/>
+            <int name="rotate" value="180"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-7" y="-111"/>
+            <int name="rotate" value="180"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="stabT2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="35" y="-84"/>
+            <int name="rotate" value="270"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="swingPF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="35" y="0"/>
+        </subprop>
+        <subprop name="8">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="handgun">
+        <subprop name="0">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="200"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingP1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="400"/>
+            <vector name="move" x="4" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="doublefire">
+        <subprop name="0">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="360"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="triplefire">
+        <subprop name="0">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="720"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="fake">
+        <subprop name="0">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="720"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="uppercut">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="5" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="4" y="0"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-3" y="0"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="17" y="0"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="240"/>
+            <vector name="move" x="-4" y="0"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-4" y="0"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+            <vector name="move" x="0" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="eblast">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="180"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-2" y="0"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-1" y="0"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-1" y="0"/>
+            <canvas name="006" width="150" height="147">
+                <vector name="origin" x="111" y="95"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="1" y="0"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="screw">
+        <subprop name="0">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="600"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="240"/>
+        </subprop>
+    </subprop>
+    <subprop name="dash">
+        <subprop name="0">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="-17" y="0"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="walk1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="1"/>
+        </subprop>
+    </subprop>
+    <subprop name="demolition">
+        <subprop name="0">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-270"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="540"/>
+        </subprop>
+    </subprop>
+    <subprop name="hashing">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-300"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="elbowattack">
+        <subprop name="0">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingO2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="16" y="0"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="480"/>
+        </subprop>
+    </subprop>
+    <subprop name="energyorb">
+        <subprop name="0">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-630"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-90"/>
+            <vector name="move" x="1" y="6"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-90"/>
+            <vector name="move" x="1" y="3"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="11" y="4"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="180"/>
+            <vector name="move" x="28" y="0"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="stabT2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-7" y="0"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="dragonrising">
+        <subprop name="0">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="6" y="-14"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="1" y="-20"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="6" y="-19"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <int name="flip" value="1"/>
+            <vector name="move" x="-7" y="-35"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="8" y="-34"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="8" y="-35"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="8" y="-34"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="8" y="-28"/>
+        </subprop>
+        <subprop name="8">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="43" y="0"/>
+        </subprop>
+        <subprop name="9">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="43" y="1"/>
+        </subprop>
+        <subprop name="10">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="43" y="2"/>
+        </subprop>
+        <subprop name="11">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="120"/>
+            <vector name="move" x="43" y="3"/>
+        </subprop>
+    </subprop>
+    <subprop name="bombing">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="9" y="-12"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="0" y="-15"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="swingT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="0" y="-16"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="swingT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="0" y="-15"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="swingT1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="0" y="-13"/>
+        </subprop>
+        <subprop name="8">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="15" y="1"/>
+        </subprop>
+        <subprop name="9">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="15" y="2"/>
+        </subprop>
+        <subprop name="10">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="15" y="3"/>
+        </subprop>
+        <subprop name="11">
+            <string name="action" value="swingT3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-120"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="12">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-180"/>
+        </subprop>
+        <subprop name="13">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="450"/>
+        </subprop>
+        <subprop name="14">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="450"/>
+        </subprop>
+    </subprop>
+    <subprop name="energysteal">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="1140"/>
+        </subprop>
+    </subprop>
+    <subprop name="octopus">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingPF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="37" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabT2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <int name="rotate" value="270"/>
+            <vector name="move" x="36" y="-83"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-8" y="-108"/>
+            <int name="rotate" value="180"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-11" y="-114"/>
+            <int name="rotate" value="180"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-24" y="-111"/>
+            <int name="rotate" value="180"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-9" y="-14"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="270"/>
+            <vector name="move" x="32" y="0"/>
+        </subprop>
+        <subprop name="8">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="backstep">
+        <subprop name="0">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="300"/>
+        </subprop>
+    </subprop>
+    <subprop name="filling">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-450"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-540"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="450"/>
+        </subprop>
+    </subprop>
+    <subprop name="shot">
+        <subprop name="0">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="540"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="recovery">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-630"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="360"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="360"/>
+        </subprop>
+    </subprop>
+    <subprop name="fist">
+        <subprop name="0">
+            <string name="action" value="alert"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="-90"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="alert"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="-90"/>
+            <vector name="move" x="1" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="alert"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-270"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-1" y="2"/>
+        </subprop>
+        <subprop name="4">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-2" y="2"/>
+        </subprop>
+        <subprop name="5">
+            <string name="action" value="stabO2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="0" y="0"/>
+        </subprop>
+        <subprop name="6">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="1" y="0"/>
+        </subprop>
+        <subprop name="7">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="0" y="0"/>
+        </subprop>
+        <subprop name="8">
+            <string name="action" value="swingTF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="15" y="0"/>
+        </subprop>
+        <subprop name="9">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="13" y="2"/>
+        </subprop>
+        <subprop name="10">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="12" y="2"/>
+        </subprop>
+        <subprop name="11">
+            <string name="action" value="swingT2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="4" y="0"/>
+        </subprop>
+        <subprop name="12">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-5" y="0"/>
+        </subprop>
+        <subprop name="13">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-6" y="0"/>
+        </subprop>
+        <subprop name="14">
+            <string name="action" value="stabTF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="3" y="8"/>
+        </subprop>
+        <subprop name="15">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-13" y="-11"/>
+        </subprop>
+        <subprop name="16">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="3" y="-11"/>
+        </subprop>
+        <subprop name="17">
+            <string name="action" value="swingT1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-2" y="0"/>
+        </subprop>
+        <subprop name="18">
+            <string name="action" value="swingT1"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="-3" y="2"/>
+        </subprop>
+        <subprop name="19">
+            <string name="action" value="stabOF"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="0" y="0"/>
+        </subprop>
+        <subprop name="20">
+            <string name="action" value="swingP2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="0" y="-16"/>
+        </subprop>
+        <subprop name="21">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="4" y="-21"/>
+        </subprop>
+        <subprop name="22">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="7" y="-27"/>
+        </subprop>
+        <subprop name="23">
+            <string name="action" value="swingOF"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="90"/>
+            <int name="flip" value="1"/>
+            <vector name="move" x="-24" y="-23"/>
+        </subprop>
+        <subprop name="24">
+            <string name="action" value="swingPF"/>
+            <int name="frame" value="3"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="51" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="fireburner">
+        <subprop name="0">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-270"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="90"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="coolingeffect">
+        <subprop name="0">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-240"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-90"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="270"/>
+            <vector name="move" x="2" y="0"/>
+        </subprop>
+        <subprop name="3">
+            <string name="action" value="shoot2"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="homing">
+        <subprop name="0">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="-720"/>
+        </subprop>
+        <subprop name="1">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="1"/>
+            <int name="delay" value="120"/>
+        </subprop>
+        <subprop name="2">
+            <string name="action" value="swingO3"/>
+            <int name="frame" value="2"/>
+            <int name="delay" value="120"/>
+        </subprop>
+    </subprop>
+    <subprop name="rapidfire">
+        <subprop name="0">
+            <string name="action" value="stabO1"/>
+            <int name="frame" value="0"/>
+            <int name="delay" value="60"/>
+            <vector name="move" x="7" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="ghostwalk">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="31" height="27">
+                    <vector name="origin" x="18" y="32"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-6" y="-20"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="32" height="27">
+                    <vector name="origin" x="18" y="31"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-6" y="-20"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+            <subprop name="2">
+                <canvas name="body" width="32" height="27">
+                    <vector name="origin" x="18" y="30"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-6" y="-18"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+            <subprop name="3">
+                <canvas name="body" width="32" height="27">
+                    <vector name="origin" x="18" y="31"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-6" y="-18"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="66" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-55"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-55"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+            <subprop name="2">
+                <canvas name="body" width="96" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-53"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+            <subprop name="3">
+                <canvas name="body" width="98" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-53"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="180"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghoststand">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="31" height="27">
+                    <vector name="origin" x="18" y="32"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-8" y="-21"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="500"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="32" height="27">
+                    <vector name="origin" x="18" y="31"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-7" y="-19"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="500"/>
+            </subprop>
+            <subprop name="2">
+                <canvas name="body" width="32" height="27">
+                    <vector name="origin" x="18" y="31"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-6" y="-19"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="500"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="66" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-55"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="500"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-55"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="500"/>
+            </subprop>
+            <subprop name="2">
+                <canvas name="body" width="96" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-53"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="500"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghostjump">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="28" height="30">
+                    <vector name="origin" x="21" y="33"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-4" y="-30"/>
+                        <vector name="navel" x="-8" y="-21"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="200"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="98" height="48">
+                    <vector name="origin" x="30" y="64"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-63"/>
+                        <vector name="navel" x="-4" y="-53"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="200"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghostproneStab">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="58" height="15">
+                    <vector name="origin" x="47" y="15"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-23" y="-4"/>
+                        <vector name="navel" x="-7" y="-3"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <canvas name="arm" width="18" height="8">
+                    <vector name="origin" x="7" y="4"/>
+                    <string name="z" value="armOverHair"/>
+                    <subprop name="map">
+                        <vector name="navel" x="5" y="1"/>
+                        <vector name="hand" x="-3" y="1"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="58" height="15">
+                    <vector name="origin" x="47" y="15"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-23" y="-4"/>
+                        <vector name="navel" x="-7" y="-3"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <canvas name="arm" width="18" height="8">
+                    <vector name="origin" x="7" y="4"/>
+                    <string name="z" value="armOverHair"/>
+                    <subprop name="map">
+                        <vector name="navel" x="5" y="1"/>
+                        <vector name="hand" x="-3" y="1"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <canvas name="arm" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="96" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-37"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <canvas name="arm" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghostladder">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="29" height="31">
+                    <vector name="origin" x="15" y="32"/>
+                    <int name="delay" value="300"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-31"/>
+                        <vector name="navel" x="2" y="-23"/>
+                        <vector name="hand" x="1" y="-38"/>
+                    </subprop>
+                    <string name="z" value="backBody"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="29" height="33">
+                    <vector name="origin" x="11" y="30"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="2" y="-29"/>
+                        <vector name="navel" x="1" y="-20"/>
+                        <vector name="hand" x="-1" y="-31"/>
+                    </subprop>
+                    <string name="z" value="backBody"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="96" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-37"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghostrope">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="31" height="31">
+                    <vector name="origin" x="14" y="33"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-32"/>
+                        <vector name="navel" x="2" y="-25"/>
+                        <vector name="hand" x="1" y="-40"/>
+                    </subprop>
+                    <string name="z" value="backBody"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="29" height="35">
+                    <vector name="origin" x="13" y="31"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-27"/>
+                        <vector name="navel" x="1" y="-19"/>
+                        <vector name="hand" x="1" y="-30"/>
+                    </subprop>
+                    <string name="z" value="backBody"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="96" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-37"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="0"/>
+                <int name="delay" value="250"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghostfly">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="body" width="30" height="27">
+                    <vector name="origin" x="20" y="40"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-4" y="-37"/>
+                        <vector name="navel" x="-7" y="-26"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="31" height="30">
+                    <vector name="origin" x="20" y="38"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-4" y="-37"/>
+                        <vector name="navel" x="-6" y="-25"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+            <subprop name="1">
+                <canvas name="body" width="96" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <string name="z" value="body"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-37"/>
+                    </subprop>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+                <int name="delay" value="300"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ghostsit">
+        <subprop name="1">
+            <subprop name="0">
+                <canvas name="0" width="27" height="23">
+                    <vector name="origin" x="18" y="31"/>
+                    <subprop name="map">
+                        <vector name="neck" x="-1" y="-28"/>
+                        <vector name="navel" x="-4" y="-17"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <subprop name="0">
+                <canvas name="body" width="77" height="48">
+                    <vector name="origin" x="30" y="48"/>
+                    <int name="delay" value="180"/>
+                    <subprop name="map">
+                        <vector name="neck" x="1" y="-47"/>
+                        <vector name="navel" x="-4" y="-39"/>
+                    </subprop>
+                    <string name="z" value="body"/>
+                    <string name="group" value="skin"/>
+                </canvas>
+                <short name="face" value="1"/>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

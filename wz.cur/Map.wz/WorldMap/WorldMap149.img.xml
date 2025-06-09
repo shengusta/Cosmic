@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="WorldMap149.img">
+    <subprop name="info">
+        <string name="parentMap" value="WorldMap146"/>
+    </subprop>
+    <subprop name="BaseImg">
+        <canvas name="0" width="640" height="470">
+            <vector name="origin" x="320" y="235"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="MapList">
+        <subprop name="0">
+            <vector name="spot" x="1" y="130"/>
+            <int name="type" value="0"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040000"/>
+            </subprop>
+        </subprop>
+        <subprop name="1">
+            <vector name="spot" x="0" y="46"/>
+            <int name="type" value="1"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040100"/>
+            </subprop>
+        </subprop>
+        <subprop name="2">
+            <vector name="spot" x="0" y="0"/>
+            <int name="type" value="1"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040200"/>
+            </subprop>
+        </subprop>
+        <subprop name="3">
+            <vector name="spot" x="-20" y="-66"/>
+            <int name="type" value="1"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040300"/>
+            </subprop>
+        </subprop>
+        <subprop name="4">
+            <vector name="spot" x="19" y="-66"/>
+            <int name="type" value="1"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040400"/>
+            </subprop>
+        </subprop>
+        <subprop name="5">
+            <vector name="spot" x="0" y="-117"/>
+            <int name="type" value="1"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040401"/>
+            </subprop>
+        </subprop>
+        <subprop name="6">
+            <vector name="spot" x="0" y="-161"/>
+            <int name="type" value="1"/>
+            <subprop name="mapNo">
+                <int name="0" value="800040410"/>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

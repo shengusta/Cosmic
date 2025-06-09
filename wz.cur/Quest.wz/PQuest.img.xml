@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="PQuest.img">
+    <subprop name="1200">
+        <null name="Moon Bunny&apos;s Rice Cake"/>
+        <string name="mark" value="Map/MapHelper/mark/MoonRabbitParty"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                    <int name="min" value="6"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="90"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                    <int name="min" value="7"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                    <int name="min" value="8"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                    <int name="min" value="9"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                    <int name="min" value="10"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="40"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                    <int name="min" value="10"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1201">
+        <null name="First Time Together"/>
+        <string name="mark" value="Map/MapHelper/mark/KerningParty"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                    <int name="min" value="10"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="90"/>
+                    <int name="have" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                    <int name="min" value="15"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                    <int name="have" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                    <int name="min" value="20"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                    <int name="min" value="25"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1202">
+        <null name="The Crack of Dimension"/>
+        <string name="mark" value="Map/MapHelper/mark/AbandonTower"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                    <int name="min" value="20"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="90"/>
+                    <int name="have" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                    <int name="min" value="25"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                    <int name="have" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                    <int name="min" value="40"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                    <int name="min" value="60"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                    <int name="min" value="60"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1203">
+        <null name="Remnants of Goddess"/>
+        <string name="mark" value="Map/MapHelper/mark/GoddessTower"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                    <int name="min" value="15"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="80"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                    <int name="min" value="20"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                    <int name="min" value="40"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                    <int name="min" value="60"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                    <int name="min" value="60"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1204">
+        <null name="Lord Pirate"/>
+        <string name="mark" value="Map/MapHelper/mark/DevijonParty"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="80"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have3" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have1" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have0" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1205">
+        <null name="Romeo and Juliet"/>
+        <string name="mark" value="Map/MapHelper/mark/RomioJuliet"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                    <int name="min" value="20"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="80"/>
+                    <int name="have" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                    <int name="min" value="25"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                    <int name="have" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                    <int name="min" value="35"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                    <int name="min" value="45"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                    <int name="min" value="45"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1206">
+        <string name="Forest of Poison Haze" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/EilnForest"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                    <int name="min" value="15"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="CR" value="80"/>
+                    <int name="have1" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                    <int name="min" value="17"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="CR" value="70"/>
+                    <int name="have0" value="1"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                    <int name="min" value="20"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="30"/>
+                    <int name="CR" value="50"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                    <int name="min" value="24"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="CR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                    <int name="min" value="30"/>
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="CR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1300">
+        <null name="Ariant Hunting Competition"/>
+        <string name="mark" value="Map/MapHelper/mark/AriantMatch"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="VR" value="40"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="70"/>
+                    <int name="VR" value="30"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="VR" value="25"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="VR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="10"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1301">
+        <null name="Monster Carnival"/>
+        <string name="mark" value="Map/MapHelper/mark/Carnival"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="200"/>
+                    <int name="VR" value="70"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="VR" value="60"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="VR" value="40"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="VR" value="40"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1302">
+        <string name="The 2nd Monster Carnival" value=""/>
+        <string name="mark" value="Map/MapHelper/mark/Carnival"/>
+        <subprop name="rank">
+            <subprop name="S">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="200"/>
+                    <int name="VR" value="70"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="A">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="100"/>
+                    <int name="VR" value="60"/>
+                </subprop>
+                <subprop name="equal">
+                    <int name="have" value="1"/>
+                </subprop>
+            </subprop>
+            <subprop name="B">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="50"/>
+                    <int name="VR" value="40"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="C">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="10"/>
+                    <int name="VR" value="40"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="D">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="20"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+            <subprop name="F">
+                <subprop name="less">
+                </subprop>
+                <subprop name="more">
+                    <int name="try" value="1"/>
+                    <int name="VR" value="0"/>
+                </subprop>
+                <subprop name="equal">
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

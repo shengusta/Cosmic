@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="WorldMap153.img">
+    <subprop name="info">
+        <string name="parentMap" value="WorldMap152"/>
+        <string name="WorldMap" value="WorldMap153"/>
+    </subprop>
+    <subprop name="BaseImg">
+        <canvas name="0" width="640" height="470">
+            <vector name="origin" x="320" y="235"/>
+            <int name="z" value="0"/>
+            <string name="_hash" value="d9d1a11e36cc0262c0cc2497fd21915da13961b1e9a6fba192e99594499a9b0d"/>
+        </canvas>
+    </subprop>
+    <subprop name="MapList">
+        <subprop name="0">
+            <int name="type" value="29"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001000"/>
+            </subprop>
+            <vector name="spot" x="-196" y="-139"/>
+        </subprop>
+        <subprop name="1">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001003"/>
+            </subprop>
+            <vector name="spot" x="-259" y="-173"/>
+        </subprop>
+        <subprop name="2">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001005"/>
+            </subprop>
+            <vector name="spot" x="-148" y="-99"/>
+        </subprop>
+        <subprop name="3">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001007"/>
+            </subprop>
+            <vector name="spot" x="-88" y="-65"/>
+        </subprop>
+        <subprop name="4">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001010"/>
+            </subprop>
+            <vector name="spot" x="-254" y="-61"/>
+        </subprop>
+        <subprop name="5">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001011"/>
+            </subprop>
+            <vector name="spot" x="-278" y="-8"/>
+        </subprop>
+        <subprop name="6">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001012"/>
+            </subprop>
+            <vector name="spot" x="-207" y="-7"/>
+        </subprop>
+        <subprop name="7">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001013"/>
+            </subprop>
+            <vector name="spot" x="-153" y="31"/>
+        </subprop>
+        <subprop name="8">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001014"/>
+            </subprop>
+            <vector name="spot" x="-219" y="45"/>
+        </subprop>
+        <subprop name="9">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001015"/>
+            </subprop>
+            <vector name="spot" x="-162" y="105"/>
+        </subprop>
+        <subprop name="10">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001016"/>
+            </subprop>
+            <vector name="spot" x="-248" y="70"/>
+        </subprop>
+        <subprop name="11">
+            <int name="type" value="29"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001100"/>
+            </subprop>
+            <vector name="spot" x="65" y="-136"/>
+        </subprop>
+        <subprop name="12">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001105"/>
+            </subprop>
+            <vector name="spot" x="-15" y="-37"/>
+        </subprop>
+        <subprop name="13">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001107"/>
+            </subprop>
+            <vector name="spot" x="45" y="-70"/>
+        </subprop>
+        <subprop name="14">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001110"/>
+            </subprop>
+            <vector name="spot" x="113" y="-172"/>
+        </subprop>
+        <subprop name="15">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001111"/>
+            </subprop>
+            <vector name="spot" x="66" y="-194"/>
+        </subprop>
+        <subprop name="16">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001112"/>
+            </subprop>
+            <vector name="spot" x="160" y="-181"/>
+        </subprop>
+        <subprop name="17">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001113"/>
+            </subprop>
+            <vector name="spot" x="222" y="-151"/>
+        </subprop>
+        <subprop name="18">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001114"/>
+            </subprop>
+            <vector name="spot" x="203" y="-194"/>
+        </subprop>
+        <subprop name="19">
+            <int name="type" value="29"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001200"/>
+            </subprop>
+            <vector name="spot" x="53" y="-4"/>
+        </subprop>
+        <subprop name="20">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001210"/>
+            </subprop>
+            <vector name="spot" x="57" y="54"/>
+        </subprop>
+        <subprop name="21">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001211"/>
+            </subprop>
+            <vector name="spot" x="12" y="105"/>
+        </subprop>
+        <subprop name="22">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001212"/>
+            </subprop>
+            <vector name="spot" x="-19" y="158"/>
+        </subprop>
+        <subprop name="23">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001213"/>
+            </subprop>
+            <vector name="spot" x="113" y="35"/>
+        </subprop>
+        <subprop name="24">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001214"/>
+            </subprop>
+            <vector name="spot" x="166" y="5"/>
+        </subprop>
+        <subprop name="25">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001215"/>
+            </subprop>
+            <vector name="spot" x="87" y="97"/>
+        </subprop>
+        <subprop name="26">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001216"/>
+            </subprop>
+            <vector name="spot" x="59" y="148"/>
+        </subprop>
+        <subprop name="27">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001217"/>
+            </subprop>
+            <vector name="spot" x="140" y="71"/>
+        </subprop>
+        <subprop name="28">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001218"/>
+            </subprop>
+            <vector name="spot" x="132" y="111"/>
+        </subprop>
+        <subprop name="29">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001219"/>
+            </subprop>
+            <vector name="spot" x="178" y="93"/>
+        </subprop>
+        <subprop name="30">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001230"/>
+            </subprop>
+            <vector name="spot" x="229" y="39"/>
+        </subprop>
+        <subprop name="31">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001240"/>
+            </subprop>
+            <vector name="spot" x="199" y="135"/>
+        </subprop>
+        <subprop name="32">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001250"/>
+            </subprop>
+            <vector name="spot" x="236" y="162"/>
+        </subprop>
+        <subprop name="33">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001260"/>
+            </subprop>
+            <vector name="spot" x="-267" y="106"/>
+        </subprop>
+        <subprop name="34">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001261"/>
+            </subprop>
+            <vector name="spot" x="244" y="-187"/>
+        </subprop>
+        <subprop name="35">
+            <int name="type" value="28"/>
+            <subprop name="mapNo">
+                <int name="0" value="450001262"/>
+            </subprop>
+            <vector name="spot" x="283" y="53"/>
+        </subprop>
+    </subprop>
+</imgdir>

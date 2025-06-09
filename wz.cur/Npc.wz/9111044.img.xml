@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9111044.img">
+    <subprop name="info">
+        <subprop name="script">
+            <subprop name="0">
+                <string name="script" value="InsightNpc_noAnswer"/>
+            </subprop>
+        </subprop>
+        <int name="hideName" value="1"/>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="52" height="76">
+            <vector name="origin" x="23" y="75"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="240"/>
+            <string name="_hash" value="bf86421fdae051db50049cf6920e632c2683f48efa3b90be463087dcf7f6913a"/>
+        </canvas>
+    </subprop>
+</imgdir>

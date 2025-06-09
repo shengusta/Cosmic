@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9808013.img">
+    <subprop name="info">
+        <string name="info" value="장애물맵 확인버튼"/>
+    </subprop>
+    <subprop name="0">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+        </canvas>
+    </subprop>
+    <subprop name="1">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="100"/>
+                <int name="state" value="5"/>
+                <int name="0" value="4001216"/>
+                <int name="1" value="1"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="100"/>
+                <int name="state" value="5"/>
+                <int name="0" value="4001213"/>
+                <int name="1" value="30"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="2">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="100"/>
+                <int name="state" value="6"/>
+                <int name="0" value="4001217"/>
+                <int name="1" value="1"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="100"/>
+                <int name="state" value="6"/>
+                <int name="0" value="4001213"/>
+                <int name="1" value="30"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="3">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="100"/>
+                <int name="state" value="7"/>
+                <int name="0" value="4001218"/>
+                <int name="1" value="1"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="100"/>
+                <int name="state" value="7"/>
+                <int name="0" value="4001213"/>
+                <int name="1" value="30"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="4">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="100"/>
+                <int name="state" value="8"/>
+                <int name="0" value="4001219"/>
+                <int name="1" value="1"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="100"/>
+                <int name="state" value="8"/>
+                <int name="0" value="4001213"/>
+                <int name="1" value="30"/>
+                <vector name="lt" x="-73" y="6"/>
+                <vector name="rb" x="79" y="86"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="5">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="6">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="7">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="8">
+        <canvas name="0" width="124" height="139">
+            <vector name="origin" x="62" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+</imgdir>

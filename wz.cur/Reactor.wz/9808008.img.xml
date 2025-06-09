@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9808008.img">
+    <subprop name="info">
+        <string name="info" value="색블럭"/>
+        <int name="backTile" value="1"/>
+    </subprop>
+    <subprop name="0">
+        <canvas name="0" width="60" height="60">
+            <vector name="origin" x="30" y="30"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="1"/>
+                <int name="state" value="1"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="2"/>
+                <int name="state" value="4"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="1">
+        <canvas name="0" width="60" height="60">
+            <vector name="origin" x="30" y="30"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="1"/>
+                <int name="state" value="2"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="2"/>
+                <int name="state" value="0"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="2">
+        <canvas name="0" width="60" height="60">
+            <vector name="origin" x="30" y="30"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="1"/>
+                <int name="state" value="3"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="2"/>
+                <int name="state" value="1"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="3">
+        <canvas name="0" width="60" height="60">
+            <vector name="origin" x="30" y="30"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="1"/>
+                <int name="state" value="4"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="2"/>
+                <int name="state" value="2"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="4">
+        <canvas name="0" width="60" height="60">
+            <vector name="origin" x="30" y="30"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="1"/>
+                <int name="state" value="0"/>
+            </subprop>
+            <subprop name="1">
+                <int name="type" value="2"/>
+                <int name="state" value="3"/>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

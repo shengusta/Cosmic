@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01003204.img">
+    <subprop name="info">
+        <canvas name="icon" width="33" height="34">
+            <vector name="origin" x="1" y="33"/>
+            <string name="_hash" value="a7f3efded2be73fbbc15488255652fd97212ad010a7d935532eeef2c9a663455"/>
+        </canvas>
+        <canvas name="iconRaw" width="33" height="34">
+            <vector name="origin" x="1" y="33"/>
+            <string name="_hash" value="703e72f592940cfea0782c0617dd1d84c2848215d1bc4332e123281a875359e2"/>
+        </canvas>
+        <string name="islot" value="Cp"/>
+        <string name="vslot" value="CpH5"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="56" height="54">
+            <vector name="origin" x="28" y="55"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="capOverHair"/>
+            <string name="_hash" value="70bae1e70e0ce2cbafac26713fd1cbc113b29ed80c014f11ba1242299820d10b"/>
+        </canvas>
+    </subprop>
+    <subprop name="backDefault">
+        <canvas name="default" width="48" height="59">
+            <vector name="origin" x="10" y="55"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="backCapOverHair"/>
+            <string name="_hash" value="6c9d5d45748b1f6716b987504232f51e0bb4dcdaea54ca562be847614737240d"/>
+        </canvas>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="83d6404b7d1c486ccbf497d3d5dacbaa0015b8a458530380f044f0c53fbfa35e"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="f3603c188bfae37c43aeff53212ad10b0135c28fe9d2a7f4ae72016c54151da1"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="57" height="54">
+                <vector name="origin" x="29" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="308aab6ddd626bebac734a909f53bb927187f1076124d81013121ae74dca193a"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="57" height="54">
+                <vector name="origin" x="29" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="9d2148f707c12d13490ca285b2cfbc53df8a790cfa00a393d231e8f1d1cb8d58"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="2a28bded540aeabe494a530d5a0fb0ff8b68ab380e36821ecbda9a38b022958c"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="57" height="54">
+                <vector name="origin" x="29" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="1786a3d71a532aeca2ac50f9412959ea86d3a9739f3ef7854b1bc0672145724b"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="c2e34a3cc2b5b829d68c4256125018a86f56967406eea7d55df1fc1d5b5eefcc"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="53" y="59"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="6834e8ff58fa956b9ef459632e127298c56621cee231736bf7488a675bdbf2c3"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="31" y="56"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="53" y="59"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="48" height="59">
+                <vector name="origin" x="10" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="85" height="79">
+                <vector name="origin" x="59" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="f3185d937296023f44df84159a31d08e668a4f3e2b201433215249e69d87d2a1"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="53" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="f021539a6327ecad55548fc52b61e8e4c370efba96b8316cfaf20d1b26a3c54a"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <canvas name="0" width="48" height="59">
+                <vector name="origin" x="10" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="53" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="99" height="83">
+                <vector name="origin" x="74" y="59"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="3478ae9e52aad17314c0cd1420692991b95439c708aa5126c5502827dc7f98cf"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <canvas name="0" width="48" height="59">
+                <vector name="origin" x="10" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="48" height="59">
+                <vector name="origin" x="10" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="61"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="da2a1b7f8a857d0aa1f96f5c73dc3b2f4f0e0a533bd7cd06ad2d582ff16d20da"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="371e9ad2d35ba33c2532a13c4e01e139537140b2b44533f15866dee308d4b81e"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="85" height="79">
+                <vector name="origin" x="60" y="59"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="0" width="56" height="55">
+                <vector name="origin" x="28" y="56"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="_hash" value="fff64e959e151f2fb5ec715e320f30194781e602c11b2a4b52d62d0a5ed5b5d3"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="55">
+                <vector name="origin" x="28" y="56"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="0" width="56" height="55">
+                <vector name="origin" x="28" y="56"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="37" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="53" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="37" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="53" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="4">
+            <canvas name="0" width="99" height="83">
+                <vector name="origin" x="73" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="39" y="59"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="53" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="29" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="53" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="79" height="74">
+                <vector name="origin" x="54" y="61"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="0" width="99" height="83">
+                <vector name="origin" x="74" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="0" width="56" height="54">
+                <vector name="origin" x="28" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="0" width="56" height="56">
+                <vector name="origin" x="28" y="57"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="66" height="59">
+                <vector name="origin" x="38" y="60"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="0" width="78" height="71">
+                <vector name="origin" x="52" y="58"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <canvas name="0" width="48" height="59">
+                <vector name="origin" x="10" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="0" width="48" height="59">
+                <vector name="origin" x="10" y="55"/>
+                <string name="z" value="capOverHair"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+</imgdir>

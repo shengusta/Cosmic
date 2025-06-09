@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01012569.img">
+    <subprop name="info">
+        <canvas name="icon" width="26" height="27">
+            <vector name="origin" x="-4" y="27"/>
+            <string name="_hash" value="e5f7f8625a562df7830353bfe8d3fcec2bcf987175859158ebef51c7e48ef33f"/>
+        </canvas>
+        <canvas name="iconRaw" width="25" height="24">
+            <vector name="origin" x="-4" y="27"/>
+            <string name="_hash" value="a0e57516b0e36d62a7daa2835370c89b752105a1ee3bb80d03b149d5cece3628"/>
+        </canvas>
+        <string name="islot" value="Af"/>
+        <string name="vslot" value="Af"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="12" height="10">
+            <vector name="origin" x="7" y="-15"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="accessoryFace"/>
+            <string name="_hash" value="f88b999725589ccc146eaebeff17e1980b97f0e404a26246fb913433289a0f33"/>
+        </canvas>
+    </subprop>
+    <subprop name="blink">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="hit">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="smile">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="troubled">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="cry">
+        <subprop name="0">
+            <uol name="default" value="../../smile/0/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="angry">
+        <subprop name="0">
+            <uol name="default" value="../../smile/0/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="bewildered">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stunned">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="vomit">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="oops">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="cheers">
+        <subprop name="0">
+            <canvas name="default" width="3" height="2">
+                <vector name="origin" x="1" y="1"/>
+                <subprop name="map">
+                    <vector name="brow" x="2" y="-19"/>
+                </subprop>
+                <string name="z" value="accessoryFace"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="chu">
+        <subprop name="0">
+            <uol name="default" value="../../smile/0/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="wink">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="pain">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="glitter">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shine">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="blaze">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="love">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="despair">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="hum">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="bowing">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="hot">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="dam">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+</imgdir>

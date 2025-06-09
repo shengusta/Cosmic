@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="blank.img">
+    <subprop name="axe">
+    </subprop>
+    <subprop name="crossBow">
+    </subprop>
+    <subprop name="mace">
+    </subprop>
+    <subprop name="poleArm">
+    </subprop>
+    <subprop name="spear">
+    </subprop>
+    <subprop name="swordOL">
+    </subprop>
+    <subprop name="swordOS">
+    </subprop>
+    <subprop name="swordTL">
+    </subprop>
+    <subprop name="swordTS">
+    </subprop>
+</imgdir>

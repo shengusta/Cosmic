@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="6102001.img">
+    <subprop name="info">
+        <string name="info" value="글로벌 파티 퀘스트 - 해적 퀘스트 아이템1"/>
+    </subprop>
+    <subprop name="0">
+        <canvas name="0" width="131" height="93">
+            <vector name="origin" x="50" y="50"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="1"/>
+            </subprop>
+        </subprop>
+        <subprop name="hit">
+            <canvas name="0" width="131" height="93">
+                <vector name="origin" x="50" y="50"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="1" width="131" height="97">
+                <vector name="origin" x="45" y="55"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="2" width="131" height="95">
+                <vector name="origin" x="49" y="50"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="3" width="131" height="95">
+                <vector name="origin" x="49" y="53"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="1">
+        <uol name="0" value="../0/0"/>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="2"/>
+            </subprop>
+        </subprop>
+        <uol name="hit" value="../0/hit"/>
+    </subprop>
+    <subprop name="2">
+        <uol name="0" value="../0/0"/>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="3"/>
+            </subprop>
+        </subprop>
+        <uol name="hit" value="../0/hit"/>
+    </subprop>
+    <subprop name="3">
+        <uol name="0" value="../0/0"/>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="4"/>
+            </subprop>
+        </subprop>
+        <subprop name="hit">
+            <canvas name="0" width="131" height="93">
+                <vector name="origin" x="50" y="50"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="1" width="139" height="88">
+                <vector name="origin" x="39" y="48"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="2" width="134" height="89">
+                <vector name="origin" x="43" y="46"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="4">
+        <canvas name="0" width="134" height="89">
+            <vector name="origin" x="43" y="46"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <string name="action" value="glpqitem2"/>
+</imgdir>

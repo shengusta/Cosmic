@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1094006.img">
+    <subprop name="info">
+        <int name="hideName" value="1"/>
+        <subprop name="script">
+            <subprop name="0">
+                <string name="script" value="nautil_Abel1"/>
+            </subprop>
+        </subprop>
+        <int name="talkMouseOnly" value="1"/>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="59" height="63">
+            <vector name="origin" x="30" y="63"/>
+            <int name="delay" value="1000"/>
+        </canvas>
+    </subprop>
+</imgdir>

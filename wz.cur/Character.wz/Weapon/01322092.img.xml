@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01322092.img">
+    <subprop name="info">
+        <canvas name="icon" width="28" height="31">
+            <vector name="origin" x="-2" y="31"/>
+            <string name="_hash" value="8dd729c135b75824d70975138fcce12e976ea46bbb6276c71d6ca4a2e9ac8abb"/>
+        </canvas>
+        <canvas name="iconRaw" width="28" height="30">
+            <vector name="origin" x="-2" y="31"/>
+            <string name="_hash" value="12d8d93aed8b9d3fd7bf506599ec326429ffe5960a31f7904d1355e46a0fe516"/>
+        </canvas>
+        <string name="islot" value="Wp"/>
+        <string name="vslot" value="Wp"/>
+        <int name="walk" value="1"/>
+        <int name="stand" value="1"/>
+        <short name="attack" value="1"/>
+        <string name="afterImage" value="mace"/>
+        <string name="sfx" value="mace"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="incPAD" value="19"/>
+        <int name="tuc" value="7"/>
+        <int name="price" value="1"/>
+        <int name="attackSpeed" value="5"/>
+        <int name="cash" value="0"/>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="25" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="8" y="3"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+                <string name="_hash" value="4d5dce0574bfb8a2c9f6037043bb99c74c57e92a00551ce10dc8d86ebff4a080"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="25" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="6" y="10"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+                <string name="_hash" value="e1d5ecef22351daad5fa0d93afc9e5855780f2fa790d36fafae1cc107d9bb92d"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="weapon" value="../0/weapon"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="25" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="8" y="-2"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+                <string name="_hash" value="9d0868a4fa5ac0932d602b6ef3faf3ecd0d2cfd07521a16633f697748d984560"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="25" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="6" y="-3"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="weapon" value="../0/weapon"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="weapon" value="../0/weapon"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="23" y="10"/>
+                <subprop name="map">
+                    <vector name="hand" x="12" y="6"/>
+                </subprop>
+                <string name="z" value="weaponOverHand"/>
+                <string name="_hash" value="4e11f1c578afa77ce47385d7220f25a9a0ed311dfc7fc0de5525cf5a2444ef53"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="23" y="10"/>
+                <subprop name="map">
+                    <vector name="hand" x="11" y="5"/>
+                </subprop>
+                <string name="z" value="weaponOverHand"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="23" y="10"/>
+                <subprop name="map">
+                    <vector name="hand" x="12" y="4"/>
+                </subprop>
+                <string name="z" value="weaponOverHand"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="11" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-1" y="6"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+                <string name="_hash" value="52cf0c8ada5de2e3d94a5fc185eb15682eadf17ce09f645d7b53aa51d2fdba09"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="41" height="20">
+                <vector name="origin" x="11" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="3" y="-2"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+                <string name="_hash" value="27ac74aa7b9e8eab2390c6d1dd34da5916159083601a0bbbc70756266b4943d7"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="weapon" width="31" height="31">
+                <vector name="origin" x="11" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-25" y="42"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+                <string name="_hash" value="371dd8756852ae27ae55697a5ce5ed95f245a396d53cf035711168015f45798b"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="weapon" width="41" height="14">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="11" y="19"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+                <string name="_hash" value="eb3a883fc68fa6861e878d307b0bbde624d680950a7c618be7ca398495655c00"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="31" height="36">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="14" y="36"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+                <string name="_hash" value="b78be9edb8df0c189c9f1a002a1a39dc048c2d89391349bb61c0bdd6d514afb7"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="weapon" width="33" height="34">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-28" y="-1"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+                <string name="_hash" value="91d878b3c231cef730b6ca599a2b120a89e885d30707852f78bcdbfac6eead55"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <canvas name="weapon" width="20" height="41">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-29" y="40"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+                <string name="_hash" value="e714efb85ae620a5d585f1dcb7582bfffe0c8773aa0316bcfb82e9862dc89f34"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="42" height="5">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="41" y="-1"/>
+                </subprop>
+                <string name="z" value="weaponOverBody"/>
+                <string name="_hash" value="825400d9c260f21f64748a43023e2b8c8d2ee41bc9734019ed2bfa4fb3409595"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="weapon" width="42" height="5">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-6" y="-1"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+                <string name="_hash" value="29eb4b3a9ad48e0733ab281d90429534ac92944dce00a4c416dd433b443f4dfa"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="weapon" width="33" height="34">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-26" y="8"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="41" height="14">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-1" y="22"/>
+                </subprop>
+                <string name="z" value="backWeapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="weapon" width="31" height="31">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="3" y="35"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+                <string name="_hash" value="78eb30bb7d4b60c7f09780adf76c03672738f8ea2ce3dfaf2db274f536b2fa84"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="weapon" width="41" height="14">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-26" y="22"/>
+                </subprop>
+                <string name="z" value="weaponBelowBody"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="8" y="2"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="42" height="5">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="49" y="4"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="weapon" width="42" height="5">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="11" y="8"/>
+                </subprop>
+                <string name="z" value="weaponBelowArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="46" y="11"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="15" y="6"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="42" height="5">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="11" y="-4"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="12" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="50" y="11"/>
+                </subprop>
+                <string name="z" value="weapon"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="5" y="3"/>
+                <subprop name="map">
+                    <vector name="navel" x="41" y="6"/>
+                </subprop>
+                <string name="z" value="weaponBelowArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="weapon" width="42" height="20">
+                <vector name="origin" x="5" y="3"/>
+                <subprop name="map">
+                    <vector name="navel" x="56" y="6"/>
+                </subprop>
+                <string name="z" value="weaponBelowArm"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="weapon" value="../../proneStab/0/weapon"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="weapon" value="../../alert/1/weapon"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="weapon" value="../../swingO2/1/weapon"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="weapon" value="../../swingO2/0/weapon"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="weapon" width="20" height="41">
+                <vector name="origin" x="13" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-13" y="37"/>
+                </subprop>
+                <string name="z" value="weaponOverArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="weapon" value="../0/weapon"/>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="weapon" width="20" height="41">
+                <vector name="origin" x="13" y="5"/>
+                <subprop name="map">
+                    <vector name="navel" x="-14" y="36"/>
+                </subprop>
+                <string name="z" value="weaponOverArm"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

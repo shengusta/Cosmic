@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="3001201.img">
+    <subprop name="info">
+        <subprop name="speak">
+            <string name="0" value="n0"/>
+            <string name="1" value="n1"/>
+            <int name="delay" value="180"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="77" height="95">
+            <vector name="origin" x="31" y="94"/>
+            <int name="z" value="0"/>
+            <string name="_hash" value="7175ecb2cfcb7a60541c1635d7dbec0d6651ff0b9bb810d34e279d580e580438"/>
+        </canvas>
+    </subprop>
+    <subprop name="condition1">
+        <int name="34701" value="2"/>
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="condition2">
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="34700" value="3"/>
+    </subprop>
+    <subprop name="condition3">
+        <int name="34635" value="2"/>
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="condition4">
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="34632" value="2"/>
+    </subprop>
+    <subprop name="condition5">
+        <int name="34631" value="2"/>
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="condition6">
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="34630" value="2"/>
+    </subprop>
+    <subprop name="condition7">
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="34630" value="1"/>
+    </subprop>
+    <subprop name="condition8">
+        <int name="34600" value="2"/>
+        <subprop name="stand">
+            <canvas name="0" width="77" height="95">
+                <vector name="origin" x="31" y="94"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+        <int name="hide" value="1"/>
+    </subprop>
+</imgdir>

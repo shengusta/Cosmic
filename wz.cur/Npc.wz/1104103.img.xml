@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1104103.img">
+    <subprop name="info">
+        <subprop name="script">
+            <subprop name="0">
+                <string name="script" value="desguiseNight"/>
+            </subprop>
+        </subprop>
+        <string name="link" value="1101006"/>
+    </subprop>
+</imgdir>

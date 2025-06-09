@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01912054.img">
+    <subprop name="info">
+        <canvas name="icon" width="31" height="27">
+            <vector name="origin" x="-1" y="26"/>
+            <string name="_hash" value="09189fcad44153bc24938d18527daeba35bf28707e6efe85c0f1f16d827c5898"/>
+        </canvas>
+        <canvas name="iconRaw" width="35" height="23">
+            <vector name="origin" x="1" y="28"/>
+            <string name="_hash" value="365351158dca33a24f33b038fe0e19cb32214c57718f42609f9a598a3d20baaf"/>
+        </canvas>
+        <string name="islot" value="Sd"/>
+        <string name="vslot" value="Sd"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="01902061">
+        <subprop name="walk1">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="2">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="3">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="4">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="5">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="walk2">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="2">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="3">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="4">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="5">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="stand1">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="2">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="3">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="4">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="5">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="stand2">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="2">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="3">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="4">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="5">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="tired">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="2">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="3">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="jump">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="prone">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="ladder">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="rope">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+        <subprop name="fly">
+            <subprop name="0">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="1">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="2">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="3">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="4">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+            <subprop name="5">
+                <canvas name="0" width="1" height="1">
+                    <vector name="origin" x="0" y="0"/>
+                    <subprop name="map">
+                        <vector name="navel" x="2" y="-23"/>
+                    </subprop>
+                    <string name="z" value="backSaddle"/>
+                </canvas>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

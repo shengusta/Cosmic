@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1032000.img">
+    <subprop name="info">
+        <string name="info" value="에피소드1퀘스트용"/>
+    </subprop>
+    <subprop name="0">
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="1"/>
+            </subprop>
+        </subprop>
+        <subprop name="hit">
+            <canvas name="0" width="161" height="113">
+                <vector name="origin" x="80" y="56"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="1" width="161" height="114">
+                <vector name="origin" x="80" y="57"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="2" width="170" height="113">
+                <vector name="origin" x="89" y="56"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="3" width="189" height="114">
+                <vector name="origin" x="99" y="57"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="4" width="199" height="124">
+                <vector name="origin" x="107" y="56"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+        </subprop>
+        <canvas name="0" width="161" height="113">
+            <vector name="origin" x="80" y="56"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+    <subprop name="1">
+        <uol name="0" value="../0/0"/>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="2"/>
+            </subprop>
+        </subprop>
+        <uol name="hit" value="../0/hit"/>
+    </subprop>
+    <subprop name="2">
+        <uol name="0" value="../0/0"/>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="3"/>
+            </subprop>
+        </subprop>
+        <uol name="hit" value="../0/hit"/>
+    </subprop>
+    <subprop name="3">
+        <uol name="0" value="../0/0"/>
+        <subprop name="event">
+            <subprop name="0">
+                <int name="type" value="0"/>
+                <int name="state" value="4"/>
+            </subprop>
+        </subprop>
+        <subprop name="hit">
+            <canvas name="0" width="159" height="113">
+                <vector name="origin" x="79" y="57"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="1" width="159" height="111">
+                <vector name="origin" x="79" y="55"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="2" width="159" height="110">
+                <vector name="origin" x="79" y="54"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="3" width="159" height="111">
+                <vector name="origin" x="79" y="55"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+            <canvas name="4" width="159" height="112">
+                <vector name="origin" x="79" y="56"/>
+                <int name="z" value="0"/>
+                <int name="delay" value="150"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="4">
+        <canvas name="0" width="1" height="1">
+            <vector name="origin" x="0" y="0"/>
+        </canvas>
+    </subprop>
+    <string name="action" value="EpisodeQuest0"/>
+    <int name="quest" value="28252"/>
+</imgdir>

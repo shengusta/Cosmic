@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01005253.img">
+    <subprop name="info">
+        <canvas name="icon" width="32" height="33">
+            <vector name="origin" x="-1" y="33"/>
+            <string name="_hash" value="d42d296a81dfe5afdb9e6abeb6ff4f460313de5f7f7eb507093ddefb87d5faae"/>
+        </canvas>
+        <canvas name="iconRaw" width="32" height="31">
+            <vector name="origin" x="-1" y="33"/>
+            <string name="_hash" value="ada31d8300e20a394859eb9fdc5c4cc1402fdb9e402e6f7ac7f9e8647ed64e43"/>
+        </canvas>
+        <string name="islot" value="Cp"/>
+        <string name="vslot" value="CpH1H3H4H5H6HfHbAe"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="59" height="58">
+            <vector name="origin" x="22" y="32"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="cap"/>
+            <string name="_hash" value="15fc806b102d7c4e8168c424082566bb8984da7996eb716820c2f1a3e65d5c1e"/>
+        </canvas>
+    </subprop>
+    <subprop name="backDefault">
+        <canvas name="default" width="57" height="55">
+            <vector name="origin" x="24" y="31"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="backCap"/>
+            <string name="_hash" value="c7511e430a1fb41547a5f906bc4ddfec4f45cae0f11988e7f7a952beafada059"/>
+        </canvas>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="fee7dd92060710d77685929518b463455ca01c01014819bf822d6e4c153ed9d1"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="385dd32ceb8dab4fed595d85416d1dbd4b030a693662e6a9276a80c644611d01"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="2bdc33e103d2694ab4d87231418fa859cc0c096815a03a053f8b8a6eea00401a"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="0fd5f5b2c9e08d01933864d52f2d63af7b6471abb8007ff32cf46b79ccafe8d1"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="c70148cb53df997ff1aec8cfb9d389954ff5dfb6a914968769d46ac11b560a86"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="c14988a13d2bbed2bd1e68ca4e561e75edd8604e48d13a217c2a00a06e4c7dd8"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="9042250ac3c49ad8dec93b81a648082184bac7810764cbce88e43c4b71a332d6"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="c7aa5217bbe61d58cab367d9ec0a6b3ecfedba83624f2c78fc554c1b883c1fd2"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="c235479c79d1c6306728c0fd014c2de75b04109be4f8e35bef8bf55101fe4d54"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="0f95aa9e8d59bfdcfb8cd0b2e8ddb1a69ac877dd2d2a7e2b7aab197561ddadad"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="759e5b03afbeac897f5450086d2a6ca7d7550200a0c23226511d450d574c0043"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="1307a326fc2b854875e098671eb61877803ad645d6a19a2c8b2e447e45bdcc0a"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="e568c5e202ccca7b6b962dd962c0e571a99e1cd0672a697393f10053c963dd4e"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="2c34a4eb4f53077f8666f2a1e3104197b68a84a29a82ccd5165fbe910058ad1d"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="810c8897037d624b0fded803b2f9e1a667bf509147e090f3bdc4e139c2d6ff6f"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="138405c19d6917c4c7cb153f40962b1fb15454af6921bb9b62303d962985f0ff"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="19236270f6bb92f31300dc43f1519c8152d5079ec95da73cc64c49e774e3171d"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="57" height="55">
+                <vector name="origin" x="24" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="52e266993364463c8a62bd7b373d7f2e21df4ffb5d6d98bfdbf81f45301568e9"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="477957f2a637d4a9ae5f0e5fcf49e6724e805e0964695e19ebd5d96dfdfbb98a"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="70cf8babf995433d4c1ce75d32b922e3a7c444be646a3bc8f85a603a087f43ca"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="c44453d17c450c2f7a270adaf7d7cdf983b547e067049a5e8d307064f2769ea0"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <canvas name="default" width="57" height="55">
+                <vector name="origin" x="24" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCap"/>
+                <string name="_hash" value="1f762908f253785a8bb73ce4e8b79fc98bdab01c3b582851833f063661d97d04"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="737bb4548e555b48d597c03d1e5439234258dcd9869f24fc434f8510ebf805e5"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="55">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="b356d4c6b7f145e70a408f492724ceabdfd9fedade0654fe31995e3efe8886aa"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="fb2a3d9a38b26dccb072e82aa2db77217e43e94d0acad96251f870a2e501d9cb"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="54">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="ad9977a6fa4228d554aac00fdf9bd3e57a2448004e4c76ef11eef1064de3bc77"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="5158f027c578d56bb0da6977df7e95d286cb5763bc84bf5f760500d5c821063b"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="55">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="046875b2e67fbf0945d09bfdba0083c09e697ef1529068b16981c3bfc3e4cecc"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="default" value="../../swingPF/0/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingPF/1/default"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../swingPF/2/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../1/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="4">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../1/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <canvas name="default" width="59" height="50">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="cdaeb43c8234a986297d9896d300734990c4f693f209c8e1fb44a01ec32c0a56"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="50">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="7efdc8a5ca3e3e840f0d5f75939e92d194270232e198191d414d437c73c1acff"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="default" value="../../proneStab/0/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="default" value="../../alert/1/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingO2/1/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO2/0/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="default" width="59" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="default" width="58" height="58">
+                <vector name="origin" x="22" y="32"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+                <string name="_hash" value="87ceb44bc1c1179c69d7275630304c76672048823f6243d096dc30e1d3c06db6"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <canvas name="default" width="57" height="55">
+                <vector name="origin" x="24" y="31"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="57" height="55">
+                <vector name="origin" x="24" y="31"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCap"/>
+                <string name="_hash" value="fcbf82e3be40ac35f8c17c0b0e7f2b0e168775cc251610c8452583bd0ad69dc4"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <canvas name="default" width="57" height="55">
+                <vector name="origin" x="24" y="31"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="default" width="57" height="55">
+                <vector name="origin" x="24" y="31"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

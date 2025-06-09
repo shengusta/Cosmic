@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01102232.img">
+    <subprop name="info">
+        <canvas name="icon" width="30" height="30">
+            <vector name="origin" x="-1" y="30"/>
+            <string name="_hash" value="a10ad6c2fdb0adef2ea0bf085c7b29e8d136abf6aae7f4f685b353a34604c2da"/>
+        </canvas>
+        <canvas name="iconRaw" width="30" height="28">
+            <vector name="origin" x="-1" y="30"/>
+            <string name="_hash" value="d3fc258316e98eb54db784be6cbd31d3bd0e90a571074ee4c4eeab4c8692be31"/>
+        </canvas>
+        <string name="islot" value="Sr"/>
+        <string name="vslot" value="Sr"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+        <subprop name="effect">
+            <string name="path" value="Effect/CharacterEff.img/1102232"/>
+            <int name="follow" value="0"/>
+            <string name="left" value="-3"/>
+            <int name="top" value="10"/>
+            <int name="right" value="5"/>
+            <int name="bottom" value="25"/>
+            <int name="dx" value="0"/>
+            <int name="dy" value="-10"/>
+            <int name="delay" value="1200"/>
+            <int name="interval" value="170"/>
+            <int name="z" value="-1"/>
+            <int name="genOnMove" value="1"/>
+        </subprop>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="5" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="7" height="5">
+                <vector name="origin" x="-4" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="5" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-5" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="5" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="6" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="4">
+                <vector name="origin" x="-5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="4" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="4" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-5" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="4" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="4" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="cape" width="15" height="5">
+                <vector name="origin" x="3" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="395094616f8b57f2ced90c69f442fd7cbe81b925008a0b8a76cee8004eff4c30"/>
+            </canvas>
+            <canvas name="capeArm" width="4" height="5">
+                <vector name="origin" x="-8" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="1" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="17" height="6">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="2668e56522b29e31b4330311f614e23158ef70b32c62aa88edbdb848525fe55e"/>
+            </canvas>
+            <canvas name="capeArm" width="4" height="5">
+                <vector name="origin" x="-8" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="1" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="15" height="5">
+                <vector name="origin" x="7" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="0889f6d1c64cd7050e8a4f86a11f4b06c49e8d379ee89298fba2804954003bc5"/>
+            </canvas>
+            <canvas name="capeArm" width="5" height="5">
+                <vector name="origin" x="-7" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="1" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <uol name="cape" value="../../stand1/0/cape"/>
+            <uol name="capeArm" value="../../stand1/0/capeArm"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="cape" value="../../stand1/1/cape"/>
+            <uol name="capeArm" value="../../stand1/1/capeArm"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="cape" value="../../stand1/2/cape"/>
+            <uol name="capeArm" value="../../stand1/2/capeArm"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="cape" width="3" height="3">
+                <vector name="origin" x="6" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-4" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="16" height="6">
+                <vector name="origin" x="6" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="94603e47c8f73ba131881a9b8ab46de98ba382b08f1cf186f6dbdfac65c3d9f7"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-4" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="16" height="6">
+                <vector name="origin" x="6" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="5">
+                <vector name="origin" x="-4" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="-1" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="-5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="3" height="5">
+                <vector name="origin" x="7" y="6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="cape" width="2" height="2">
+                <vector name="origin" x="-1" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="4" height="5">
+                <vector name="origin" x="-1" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCape"/>
+            </canvas>
+            <canvas name="capeArm" width="1" height="1">
+                <vector name="origin" x="-4" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <canvas name="cape" width="13" height="5">
+                <vector name="origin" x="10" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="6fcb5bfcae7a47d86054d5b6dee2883a3df534ef000fc2488e5737c90334078b"/>
+            </canvas>
+            <canvas name="capeArm" width="2" height="2">
+                <vector name="origin" x="-3" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="4" height="3">
+                <vector name="origin" x="-3" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="5" height="3">
+                <vector name="origin" x="-5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="cape" width="12" height="7">
+                <vector name="origin" x="6" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+                <string name="_hash" value="482394607baf627076b5fc2c1c9040d1cacfb4f62caedad69c58cdc7f5746efd"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="4" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="1">
+            <canvas name="cape" width="3" height="2">
+                <vector name="origin" x="1" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="1">
+            <canvas name="cape" width="13" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="20f26d5bbe0ab8d59b43e5434d4c586c086a793cacd500afa563cc6afe6ee01d"/>
+            </canvas>
+            <canvas name="capeArm" width="12" height="6">
+                <vector name="origin" x="4" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="mailArmBelowHead"/>
+                <string name="_hash" value="0cdc13061eb74a1b56a35cd3fccbcd5f84e27632193ae74d9bcd82d5bef1edb9"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="10" height="6">
+                <vector name="origin" x="8" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+                <string name="_hash" value="64065504e61db545ae6cbe2db4c8856197994dcdbbe8f9aa6eee79865acfb35e"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <canvas name="cape" width="7" height="5">
+                <vector name="origin" x="-1" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="5" height="3">
+                <vector name="origin" x="5" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="mailArmBelowHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="9" height="5">
+                <vector name="origin" x="7" y="8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+                <string name="_hash" value="b4bb839235da1057fcda655d406cae1d4f822efc59c85075023a9b43923e96e0"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="3" height="1">
+                <vector name="origin" x="8" y="7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backCape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="1">
+            <canvas name="cape" width="3" height="2">
+                <vector name="origin" x="1" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <canvas name="cape" width="3" height="2">
+                <vector name="origin" x="2" y="9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="9" height="4">
+                <vector name="origin" x="6" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="10" height="6">
+                <vector name="origin" x="8" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <canvas name="cape" width="13" height="6">
+                <vector name="origin" x="5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+                <string name="_hash" value="2307e2f093e8ac4e8163eb5b4a08d43861ac9c93f3725d1a149def500c835468"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="14" height="5">
+                <vector name="origin" x="7" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+                <string name="_hash" value="6f9be6187fb1dbb6d3c7feb115e0a697b8419c7decce44918aa579719bfd66f3"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="1" height="3">
+                <vector name="origin" x="0" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="cape" width="4" height="3">
+                <vector name="origin" x="-5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="cape" width="5" height="4">
+                <vector name="origin" x="-3" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="cape" width="6" height="5">
+                <vector name="origin" x="13" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="4" height="4">
+                <vector name="origin" x="3" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="5" height="5">
+                <vector name="origin" x="6" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="2" height="4">
+                <vector name="origin" x="2" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <canvas name="cape" width="4" height="4">
+                <vector name="origin" x="1" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="3" height="2">
+                <vector name="origin" x="-2" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <canvas name="cape" width="4" height="4">
+                <vector name="origin" x="-1" y="14"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="2" height="3">
+                <vector name="origin" x="-1" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="cape" value="../../swingPF/0/cape"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="cape" value="../../swingPF/1/cape"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="3" height="3">
+                <vector name="origin" x="-3" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="cape" value="../../stabT1/2/cape"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <canvas name="cape" width="6" height="5">
+                <vector name="origin" x="6" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="6" height="5">
+                <vector name="origin" x="6" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="cape" value="../1/cape"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <canvas name="cape" width="6" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                    <canvas name="cape" width="85" height="29">
+                        <vector name="origin" x="42" y="14"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="5" height="5">
+                <vector name="origin" x="-5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="6" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                    <canvas name="cape" width="85" height="29">
+                        <vector name="origin" x="42" y="14"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="cape" width="6" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="cape" width="6" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                    <canvas name="cape" width="85" height="29">
+                        <vector name="origin" x="42" y="14"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="5" height="5">
+                <vector name="origin" x="-5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="4">
+            <canvas name="cape" width="6" height="4">
+                <vector name="origin" x="5" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                    <canvas name="cape" width="85" height="29">
+                        <vector name="origin" x="42" y="14"/>
+                        <int name="z" value="0"/>
+                    </canvas>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+            </canvas>
+            <canvas name="capeArm" width="6" height="4">
+                <vector name="origin" x="-5" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeOverHead"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <canvas name="cape" width="13" height="5">
+                <vector name="origin" x="9" y="13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+                <string name="_hash" value="74f6445cb9e318d34bc3d2971e266885dcee7fd69a5631891399330b9367ff12"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="7" height="5">
+                <vector name="origin" x="7" y="14"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="cape" value="../1/cape"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="cape" value="../../alert/1/cape"/>
+            <uol name="capeArm" value="../../alert/1/capeArm"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="cape" width="5" height="4">
+                <vector name="origin" x="6" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="cape" width="5" height="4">
+                <vector name="origin" x="6" y="12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="cape" width="5" height="4">
+                <vector name="origin" x="5" y="11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cape"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="cape" width="11" height="4">
+                <vector name="origin" x="3" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capeBelowBody"/>
+                <string name="_hash" value="7982c798a5faa680458bb112980d861175de94a56878f747dc0db081c26a90dc"/>
+            </canvas>
+            <canvas name="capeArm" width="4" height="4">
+                <vector name="origin" x="-5" y="10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

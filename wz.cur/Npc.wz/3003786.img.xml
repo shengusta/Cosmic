@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="3003786.img">
+    <subprop name="info">
+        <int name="hideName" value="1"/>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="74" height="115">
+            <vector name="origin" x="42" y="114"/>
+            <int name="z" value="0"/>
+            <string name="_hash" value="2b507de584c8436e9f4b6176208586163a5d303eedaf31511e3812389c15707a"/>
+        </canvas>
+    </subprop>
+    <subprop name="wake">
+        <canvas name="0" width="73" height="122">
+            <vector name="origin" x="39" y="122"/>
+            <int name="z" value="0"/>
+            <string name="_hash" value="254842a41308591a30a16d568895df1769ddf493559ccecdab8d46412a33924d"/>
+        </canvas>
+        <int name="special" value="1"/>
+    </subprop>
+    <subprop name="condition2">
+        <subprop name="35751">
+            <subprop name="0">
+                <string name="key" value="86"/>
+                <string name="value" value="h0"/>
+            </subprop>
+        </subprop>
+        <int name="hide" value="1"/>
+        <uol name="stand" value="../stand"/>
+        <uol name="wake" value="../wake"/>
+    </subprop>
+    <subprop name="condition3">
+        <subprop name="35751">
+            <subprop name="0">
+                <string name="key" value="86"/>
+                <string name="value" value="h1"/>
+            </subprop>
+        </subprop>
+        <uol name="stand" value="../stand"/>
+        <uol name="wake" value="../stand"/>
+    </subprop>
+    <subprop name="condition4">
+        <subprop name="35751">
+            <subprop name="0">
+                <string name="key" value="86"/>
+                <string name="value" value="h2"/>
+            </subprop>
+        </subprop>
+        <uol name="stand" value="../wake"/>
+        <uol name="wake" value="../wake"/>
+    </subprop>
+</imgdir>

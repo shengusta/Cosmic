@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01003892.img">
+    <subprop name="info">
+        <canvas name="icon" width="32" height="34">
+            <vector name="origin" x="0" y="34"/>
+            <string name="_hash" value="2e3b44a5ff45c55597bed04ea30f263cef6a905591d21406b1e13dfc337bbed9"/>
+        </canvas>
+        <canvas name="iconRaw" width="32" height="34">
+            <vector name="origin" x="0" y="34"/>
+            <string name="_hash" value="fe5e7518c273497bd0082cb1d5f66b0e4b2ec458a93a12e1770e4cb1524761a8"/>
+        </canvas>
+        <string name="islot" value="Cp"/>
+        <string name="vslot" value="CpH5"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="11" height="16">
+            <vector name="origin" x="-10" y="8"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="capOverHair"/>
+            <string name="_hash" value="4bbee789119121a30d2083740a6ca889d46a5f0134e3abea17e5b433d220aabc"/>
+        </canvas>
+    </subprop>
+    <subprop name="backDefault">
+        <canvas name="default" width="1" height="1">
+            <vector name="origin" x="0" y="0"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="capOverHair"/>
+        </canvas>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="33" height="36">
+                <vector name="origin" x="-3" y="24"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="7bfe610a80e01f9db123a8d63b31ae1a3e4d9fb98ae6dadd88d51a934965ac57"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="32" height="38">
+                <vector name="origin" x="-3" y="22"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="2f7c7939d501583bf220e5b54e465b305b75d8f4699b58119b9e252008a646f4"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="33" height="30">
+                <vector name="origin" x="-2" y="20"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="f3f763a2cba933729274e3fd86774933fd0d0206167e248738ad99525446a4ec"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="28" height="36">
+                <vector name="origin" x="-3" y="24"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="5e2f1be3b3d503046a85839ed522baf20560d87a6319ebce1bce38aed6ebfc0f"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/3/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="28" height="36">
+                <vector name="origin" x="-3" y="24"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="28" height="36">
+                <vector name="origin" x="-4" y="22"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="79ff31a9702a708ccc00d9193c222aeec10dcac52ae1ced1c72ebbf19dc02657"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <canvas name="effect" width="33" height="36">
+                <vector name="origin" x="-3" y="24"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="effect" value="../../walk1/1/effect"/>
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/3/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/3/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/3/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/3/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/3/effect"/>
+        </subprop>
+        <subprop name="4">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/2/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../backDefault/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+            <uol name="effect" value="../../walk1/0/effect"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../backDefault/default"/>
+            <uol name="effect" value="../../walk1/1/effect"/>
+        </subprop>
+    </subprop>
+</imgdir>

@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01082322.img">
+    <subprop name="info">
+        <canvas name="icon" width="37" height="36">
+            <vector name="origin" x="2" y="34"/>
+            <string name="_hash" value="93ffa33a28d568ff6e8b9b1a27afe190c21d81a382de88404bf2d827343e8145"/>
+        </canvas>
+        <canvas name="iconRaw" width="37" height="36">
+            <vector name="origin" x="2" y="34"/>
+            <string name="_hash" value="7aec9c7f4d08a025cd00a54e585fd31d6086362152b5c4ca2480c5b69f8fd1e6"/>
+        </canvas>
+        <string name="islot" value="Gv"/>
+        <string name="vslot" value="GlGw"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="75"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="incPDD" value="35"/>
+        <int name="incMDD" value="35"/>
+        <int name="incPAD" value="1"/>
+        <int name="incMAD" value="1"/>
+        <int name="incACC" value="120"/>
+        <int name="tuc" value="5"/>
+        <int name="price" value="10000"/>
+        <int name="cash" value="0"/>
+        <int name="setItemID" value="81"/>
+        <int name="tradeBlock" value="1"/>
+        <int name="charmEXP" value="40"/>
+        <int name="exItem" value="1"/>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="3">
+                <vector name="origin" x="2" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="-1"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="-2" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="rWrist" value="../0/rWrist"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="rWrist" width="7" height="4">
+                <vector name="origin" x="4" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="7">
+                <vector name="origin" x="-3" y="2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="4" height="7">
+                <vector name="origin" x="-3" y="2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="rWrist" value="../0/rWrist"/>
+        </subprop>
+        <subprop name="3">
+            <canvas name="rWrist" width="4" height="7">
+                <vector name="origin" x="-3" y="4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="rWrist" width="7" height="3">
+                <vector name="origin" x="2" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="7" height="3">
+                <vector name="origin" x="2" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="7" height="3">
+                <vector name="origin" x="2" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-2" y="1"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-2" y="1"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-2" y="1"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="0" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="0" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="1" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="3">
+                <vector name="origin" x="3" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="9" y="0"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="1" y="-2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="-1" y="9"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="7" y="6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="1">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="-4" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowHead"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="3" y="2"/>
+                <subprop name="map">
+                    <vector name="hand" x="5" y="4"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="rWrist" width="5" height="5">
+                <vector name="origin" x="10" y="3"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="-1"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-3" y="1"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowWeapon"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="-6" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-1" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="1">
+            <canvas name="rWrist" width="3" height="6">
+                <vector name="origin" x="-5" y="3"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="lGlove" width="6" height="5">
+                <vector name="origin" x="-1" y="10"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <canvas name="lGlove" width="4" height="4">
+                <vector name="origin" x="0" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="4">
+                <vector name="origin" x="5" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowHead"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="1">
+            <canvas name="rWrist" width="7" height="5">
+                <vector name="origin" x="3" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowHead"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="6" height="3">
+                <vector name="origin" x="3" y="-7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-1" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-9" y="-2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-2" y="-2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-1" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="0" y="-4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="3" height="6">
+                <vector name="origin" x="-6" y="2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="lGlove" width="6" height="5">
+                <vector name="origin" x="-1" y="10"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="0" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="8" height="3">
+                <vector name="origin" x="3" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="7" y="-5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="rWrist" width="6" height="6">
+                <vector name="origin" x="-6" y="3"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="3">
+                <vector name="origin" x="2" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="3" height="6">
+                <vector name="origin" x="-5" y="4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-3" y="0"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-3" y="4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="3">
+                <vector name="origin" x="3" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="4">
+                <vector name="origin" x="-31" y="11"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="1" y="17"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="6" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="7" height="3">
+                <vector name="origin" x="3" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-4" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="1" y="9"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="7" height="4">
+                <vector name="origin" x="3" y="8"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="-2" y="7"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="rWrist" value="../../swingPF/0/rWrist"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="rWrist" value="../../swingPF/1/rWrist"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="8" height="6">
+                <vector name="origin" x="-2" y="-13"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+                <string name="_hash" value="5266c2c1c8fd25e79f1c022758d75638c98207f4feddfa58a4c929769d86c1af"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="rWrist" value="../../stabT1/2/rWrist"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="7">
+                <vector name="origin" x="-4" y="4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-4" y="3"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="rWrist" value="../1/rWrist"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-2" y="4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="10" y="9"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="3" y="2"/>
+                <subprop name="map">
+                    <vector name="hand" x="-20" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-6" y="-4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="4">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-9" y="-4"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="7">
+                <vector name="origin" x="-4" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="5" height="6">
+                <vector name="origin" x="-3" y="0"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristBelowMailArm"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="rWrist" value="../1/rWrist"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <canvas name="rWrist" width="4" height="6">
+                <vector name="origin" x="-4" y="2"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="4" height="7">
+                <vector name="origin" x="-4" y="5"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="rWrist" value="../../proneStab/0/rWrist"/>
+            <uol name="lGlove" value="../../proneStab/0/rWrist"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="rWrist" value="../../alert/1/rWrist"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="rWrist" value="../../swingO2/1/rWrist"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="rWrist" value="../../swingO2/0/rWrist"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="-1" y="-1"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="-2" y="0"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="rWrist" width="6" height="5">
+                <vector name="origin" x="-1" y="-1"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWristOverHair"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="rWrist" width="5" height="5">
+                <vector name="origin" x="-2" y="-6"/>
+                <subprop name="map">
+                    <vector name="hand" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="gloveWrist"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+    </subprop>
+    <subprop name="rope">
+    </subprop>
+</imgdir>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="ChatBlockReason.img">
+    <subprop name="1">
+        <string name="type" value="Foul Language"/>
+        <string name="msg" value="Foul language/Harrassment"/>
+    </subprop>
+    <subprop name="2">
+        <string name="type" value="Advertising"/>
+        <string name="msg" value="Advertising websites"/>
+    </subprop>
+    <subprop name="3">
+        <string name="type" value="Hack"/>
+        <string name="msg" value="Fake GM"/>
+    </subprop>
+    <subprop name="4">
+        <string name="type" value="Account Trading"/>
+        <string name="msg" value="Trading or selling account"/>
+    </subprop>
+    <subprop name="5">
+        <string name="type" value="Trading"/>
+        <string name="msg" value="Do not report fame scams and trade scams. "/>
+    </subprop>
+    <subprop name="6">
+        <string name="type" value="Penalty Alert"/>
+        <string name="msg" value="The reporter&apos;s conversation is also subject to penalties."/>
+    </subprop>
+</imgdir>

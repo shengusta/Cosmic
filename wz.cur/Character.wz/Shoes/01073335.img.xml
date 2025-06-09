@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01073335.img">
+    <subprop name="info">
+        <canvas name="icon" width="30" height="30">
+            <vector name="origin" x="-2" y="30"/>
+            <string name="_hash" value="c48b786021bb450885b8aa18bbc5804dd080c97b4de78aec5d852f5187ebe547"/>
+        </canvas>
+        <canvas name="iconRaw" width="24" height="28">
+            <vector name="origin" x="-6" y="30"/>
+            <string name="_hash" value="0a0d78ec5fe36d5e29df010fdf7ac28a62185679e7d04a6739d9b738d60aea89"/>
+        </canvas>
+        <string name="islot" value="So"/>
+        <string name="vslot" value="So"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <canvas name="shoes" width="11" height="12">
+                <vector name="origin" x="-4" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="1253d4cd2eccfa3a24819e01316f3a871682cb7c7703d9e38a9e049bb0378e9b"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="27" height="11">
+                <vector name="origin" x="10" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="bf7be5fe6b4e5e8baeb3863d6c644bc93b8dd0f79753a78b7e4854fb188330cc"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="14" height="10">
+                <vector name="origin" x="2" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="9185ba468251842db590c67b0e823b2520df800b28b86ff79aebc8fc32590103"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="shoes" width="24" height="13">
+                <vector name="origin" x="9" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="10819a65193a8e52249a56a45e7d6f99abc08bd756470fef4149a740a9101f1a"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <uol name="shoes" value="../../walk1/0/shoes"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../../walk1/1/shoes"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="shoes" value="../../walk1/2/shoes"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="shoes" value="../../walk1/3/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <canvas name="shoes" width="21" height="7">
+                <vector name="origin" x="7" y="-15"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="7bb768f96817177d3a28ae96aa9848bd1454a831df23a567cc457e1715bcd2c8"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="21" height="7">
+                <vector name="origin" x="8" y="-14"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="21" height="7">
+                <vector name="origin" x="9" y="-15"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <uol name="shoes" value="../../stand1/0/shoes"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../../stand1/1/shoes"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="shoes" value="../../stand1/2/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <canvas name="shoes" width="24" height="9">
+                <vector name="origin" x="13" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="d6b74078d17f19b445994e6130245a24963db0af97b678c7ee2ef8bbeb66441b"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="25" height="9">
+                <vector name="origin" x="13" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="3b59379c1cc61a67ed4dd9abe48fbe4c13a32b8afc8b8411bc674c6757d2cc15"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="24" height="8">
+                <vector name="origin" x="13" y="-13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="60bae30c2bc027df8469c2ff96703dd42ec8235f44369ff775daf0d2dcc76589"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <canvas name="shoes" width="28" height="11">
+                <vector name="origin" x="10" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="c34178d592eea36f9482021aa186a1a69ac3ca99059977fb05a5c9613e407e47"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="16" height="11">
+                <vector name="origin" x="3" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="c6a181d2f4b8559264695d9fa9074c457fb31c13f3cbe94acd709331e8a7436f"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="8" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="fe80a480fd5502c5f585cbe1c32256f96de565646e70449256196a9ea18af7a2"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <canvas name="shoes" width="24" height="9">
+                <vector name="origin" x="11" y="-12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="397a06a9d732eddb18891690fbb40fc79a903b89855947d5708cd20c0d3aa310"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="28" height="9">
+                <vector name="origin" x="13" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="b09e64073315d283c508ee386aa53ccb5ae6181c25165cfdd538b561afaf69c5"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="29" height="9">
+                <vector name="origin" x="12" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="362c1a6a580173e57256e317d8ddd6aa7a373b5b0959e614f90e9a7a6c005c08"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <canvas name="shoes" width="27" height="9">
+                <vector name="origin" x="8" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="2e720968475349aefc07bbcaa549f2b55475197cdaf0aa76e89a7c2d9f20c346"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="19" height="10">
+                <vector name="origin" x="2" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="636257fcf2820605ca41e3d2a8b0f93cc38033b6b7144f20385e81f64a813417"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="28" height="11">
+                <vector name="origin" x="6" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <canvas name="shoes" width="29" height="8">
+                <vector name="origin" x="14" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="8af1217488523c6ddc6d95d8a765daf368721a042b69489f54b85b1638de8e94"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="26" height="14">
+                <vector name="origin" x="10" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backShoes"/>
+                <string name="_hash" value="1b092938fe5f8100b5d1a5bae681895956d4d409e1f12061e5e26e62bebcb9f0"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="9" height="18">
+                <vector name="origin" x="-4" y="-3"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="ba95c6c38a1589675fc00f3ea62b22c55dd330761f2162010ac3ba2cac41c238"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="shoes" width="36" height="11">
+                <vector name="origin" x="16" y="-2"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="5aec3e97fe759def7efe86d8b0f0db405b2803ece106389278616de274cb1213"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <canvas name="shoes" width="23" height="8">
+                <vector name="origin" x="11" y="-14"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="efa5acc50c1e606c1aeaf29dbed68eaa4173c14f16bd0bc9d670ab79141ee77e"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="28" height="9">
+                <vector name="origin" x="12" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="10" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="aa1f7ceeb4ec443cbd6d02acce266f9939f28a0773d4fe47dfd07f0fa1ad78d7"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <canvas name="shoes" width="28" height="11">
+                <vector name="origin" x="15" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="7d91d9d24e6da4a6d29871c902e795a731fc3b92b51c23bad316328304352575"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="29" height="10">
+                <vector name="origin" x="11" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="7bc295b7d504a8192450bb5864030d5ba1816ab005cee8a344be7270637530f0"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="11" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <canvas name="shoes" width="29" height="9">
+                <vector name="origin" x="13" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="31d7eb79b7f1539cb78ec1a6971fc45c1e774fb889997a8e3b2a4aaed3e71159"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="24" height="10">
+                <vector name="origin" x="4" y="-7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="fd3974481f37b892529a713b4560e867a574d93362c0737dcf9a26113a50794a"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="11" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <canvas name="shoes" width="11" height="13">
+                <vector name="origin" x="3" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backShoes"/>
+                <string name="_hash" value="d63099a16e91ab0d2f3afc5b1325d8d7504afec6ce3cecc61d8a6ec4b408732b"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="21" height="14">
+                <vector name="origin" x="8" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="059fef295c0b36c38140ee197659b17e4aa086aa692a19cf76698de32858b663"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="25" height="12">
+                <vector name="origin" x="6" y="-7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="ea76e7d404834a16670a24de8723432b17b1ef06d6aa81007017e4718ba2c8cd"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="12" y="-7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <canvas name="shoes" width="23" height="8">
+                <vector name="origin" x="12" y="-13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="ec5a1d660c82d8ad6765d866119c2fa011b68756155ad53508d7f30052c70a87"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="28" height="9">
+                <vector name="origin" x="12" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="10" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <canvas name="shoes" width="25" height="10">
+                <vector name="origin" x="11" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="db99b165c3bc63d8a6129c2569b497848a47fca6fb84c8a3ffe0b7f73806df4c"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="28" height="9">
+                <vector name="origin" x="12" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="9">
+                <vector name="origin" x="11" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <canvas name="shoes" width="39" height="11">
+                <vector name="origin" x="12" y="-5"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="14a2c2ced828a9b10db67496ac97e1020f1e8c056a84b26b6c46203d5f9a9d99"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="36" height="11">
+                <vector name="origin" x="11" y="-4"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="fc9a6a3333981b7a8922ce722a70fe6ca0da7bb8f1b5216e127e7f4163cfa61a"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="20" height="20">
+                <vector name="origin" x="10" y="-10"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="1dcce28dcd4686eee0626f9c1f0358d1b45fc3b959a086ceac551c6227ed2ac1"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <canvas name="shoes" width="18" height="10">
+                <vector name="origin" x="10" y="-7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="e0dbaee8b8560622795d3d627be66702f5a2cccef67892228fe88bc90494bf34"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <canvas name="shoes" width="35" height="7">
+                <vector name="origin" x="21" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="d8d75039f860ece579e08308bbf38823ba642eb43fa7c8ec389670d8a50a971d"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="35" height="10">
+                <vector name="origin" x="11" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="a343447f73cef497f50a4ef8429c9529ca2528de0dc4ed3624059699fb6f1c25"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <canvas name="shoes" width="27" height="10">
+                <vector name="origin" x="13" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="d3c1e2e30c9731f68de73f46c4168f595deded2787bd5c20fb02e13e0bea8bb3"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="36" height="9">
+                <vector name="origin" x="10" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="926ca74a43487615073b26b324468f8ec505e35431dcb99a37fe713756d09fbc"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <canvas name="shoes" width="18" height="9">
+                <vector name="origin" x="10" y="-5"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="4f151e1da750e46d3d17a7e008feae1034993d7689152aeb2f3eb6a94d6c8c0f"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="38" height="12">
+                <vector name="origin" x="20" y="-7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="0443a284e659359d369b13d3460a7a4e09c8481e9a76411a1d101b94ea91abee"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="37" height="8">
+                <vector name="origin" x="12" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="ec3f47c71fa846fcd357f4ef4e561873eaacd792de09679d681d44312dea0ae4"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <canvas name="shoes" width="27" height="9">
+                <vector name="origin" x="16" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="e6af30a17b41a2566fb0e66790d4fa69b3e16dd724ffede4e2ed34b04155e8d2"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="32" height="12">
+                <vector name="origin" x="7" y="-7"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="975b6d9060eb930db93f2ca3f5cbfdf2ae59dc44a1ffb4cc2e6fd20753c57ff4"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="41" height="9">
+                <vector name="origin" x="13" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="ed2f18eddd1aae2e70d162747bbe9c6d1cb667905350624d9f9e6fc7f063c055"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <canvas name="shoes" width="23" height="11">
+                <vector name="origin" x="10" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="71e4b9068ffc4a40486d2d4f888c9b085c7027f35ba5add26d6acadd97d3ddee"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="31" height="12">
+                <vector name="origin" x="10" y="-5"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="7f8c9570cd82bc71facb1b99bae882d9bd56881bbab82164d0393eff2289abe2"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="43" height="9">
+                <vector name="origin" x="15" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="fb33cf0a44c1726648ff579b51075659c76103ac9189792807db23538f5f70bd"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="shoes" value="../../swingPF/0/shoes"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../../swingPF/1/shoes"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="shoes" width="20" height="21">
+                <vector name="origin" x="10" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="44469fb728da75a62e167e5a55d6be9dd8e3d35bb9da3e39ff3b351fdda7739c"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="shoes" value="../../stabT1/2/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <canvas name="shoes" width="25" height="8">
+                <vector name="origin" x="13" y="-12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="16b247e20e3cfdb964a7d628a6854fc8528e080529e74fddb4f2bbba9b964229"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <canvas name="shoes" width="24" height="7">
+                <vector name="origin" x="11" y="-12"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="9f8126b26aa0e06f51007f17881fa1ac72e706ec344a661fea7de7522914d230"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+        <subprop name="4">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <canvas name="shoes" width="25" height="7">
+                <vector name="origin" x="16" y="-13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="4a7971d9964c9db8e7f434681b0a946c3cf0969790f34ff406c8c8a83a4f4737"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="29" height="8">
+                <vector name="origin" x="17" y="-11"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="f8e52a22d133270536045b01ebd820ad5e9bb939aa97f688cd2730407bbd00a8"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="shoes" value="../1/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <canvas name="shoes" width="13" height="7">
+                <vector name="origin" x="-10" y="4"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="d7497b12150e263dd1290625e85e20a66b339890e469f4e4a82a257239cb651b"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../0/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="shoes" value="../../proneStab/0/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="shoes" value="../../alert/1/shoes"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="shoes" value="../../swingO2/1/shoes"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="shoes" value="../../swingO2/0/shoes"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="shoes" width="14" height="20">
+                <vector name="origin" x="-3" y="-4"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="807383fc4b70794bd4cd3e87ff318f4dbfda0af21a9097b9200e3561596b4980"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="7" height="15">
+                <vector name="origin" x="-5" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="f6d022326bb3b2750adedcc2399b32403a1131d45fffa1cf9f26a43fb00e0dfb"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <canvas name="shoes" width="35" height="12">
+                <vector name="origin" x="17" y="-6"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+                <string name="_hash" value="206d2020f887242ef721b8ef92356afc5ae670ba06afe8fe3b6bffcc688bef6e"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="shoes" width="21" height="7">
+                <vector name="origin" x="17" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="shoesTop"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <canvas name="shoes" width="17" height="13">
+                <vector name="origin" x="8" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backShoes"/>
+                <string name="_hash" value="a2de4952300f7a6318a865f711ea01ddc44b3d9e71e8c12d5e7fad052c89df0c"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="17" height="13">
+                <vector name="origin" x="9" y="-9"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backShoes"/>
+                <string name="_hash" value="2d68f770f86ff319d8b42de31311db326d88e72c1fb7468f7518b74fdaed8e90"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <canvas name="shoes" width="13" height="11">
+                <vector name="origin" x="7" y="-13"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backShoes"/>
+                <string name="_hash" value="ea63d2f16d5beab9326000c5de06e8b28aebbf4e15ce6f88bbbacb0400934c34"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <canvas name="shoes" width="15" height="11">
+                <vector name="origin" x="7" y="-8"/>
+                <subprop name="map">
+                    <vector name="navel" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="backShoes"/>
+                <string name="_hash" value="dbe99992a8c29993b3d59a0b7730e24871ab4a81f1fc0d17c0fb95313c4d69c4"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0010203.img">
+    <subprop name="info">
+        <subprop name="script">
+            <subprop name="0">
+                <string name="script" value="infoRogue"/>
+            </subprop>
+        </subprop>
+        <subprop name="speak">
+            <string name="0" value="s0"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="105" height="117">
+            <vector name="origin" x="57" y="110"/>
+            <vector name="lt" x="-24" y="-66"/>
+            <vector name="rb" x="16" y="0"/>
+            <vector name="head" x="-10" y="-49"/>
+            <int name="delay" value="400"/>
+        </canvas>
+    </subprop>
+    <subprop name="eye">
+        <canvas name="0" width="105" height="117">
+            <vector name="origin" x="57" y="110"/>
+            <vector name="lt" x="-24" y="-66"/>
+            <vector name="rb" x="16" y="0"/>
+            <vector name="head" x="-10" y="-49"/>
+            <int name="delay" value="400"/>
+        </canvas>
+        <canvas name="1" width="105" height="117">
+            <vector name="origin" x="57" y="110"/>
+            <vector name="lt" x="-24" y="-66"/>
+            <vector name="rb" x="16" y="0"/>
+            <vector name="head" x="-10" y="-49"/>
+            <int name="delay" value="400"/>
+        </canvas>
+        <canvas name="2" width="105" height="117">
+            <vector name="origin" x="57" y="110"/>
+            <vector name="lt" x="-24" y="-66"/>
+            <vector name="rb" x="16" y="0"/>
+            <vector name="head" x="-10" y="-49"/>
+            <int name="delay" value="400"/>
+        </canvas>
+        <int name="zigzag" value="1"/>
+    </subprop>
+</imgdir>

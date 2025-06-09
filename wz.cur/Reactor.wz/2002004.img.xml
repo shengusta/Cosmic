@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2002004.img">
+    <subprop name="info">
+        <string name="info" value="LP1"/>
+        <string name="link" value="0002000"/>
+    </subprop>
+    <string name="action" value="fgodItem3"/>
+</imgdir>

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="knuckle.img">
+    <subprop name="0">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="1">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="2">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="3">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="4">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="5">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="6">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="7">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="8">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="9">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="10">
+        <subprop name="stabO1">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="69" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="76" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-64" y="-33"/>
+            <vector name="rb" x="-27" y="-18"/>
+        </subprop>
+        <subprop name="stabO2">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="68" y="38"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="75" y="33"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-60" y="-31"/>
+            <vector name="rb" x="-27" y="-15"/>
+        </subprop>
+        <subprop name="proneStab">
+            <subprop name="1">
+                <canvas name="0" width="67" height="28">
+                    <vector name="origin" x="62" y="18"/>
+                    <int name="delay" value="30"/>
+                </canvas>
+                <canvas name="1" width="64" height="20">
+                    <vector name="origin" x="69" y="13"/>
+                    <int name="delay" value="200"/>
+                    <int name="a1" value="0"/>
+                </canvas>
+            </subprop>
+            <vector name="lt" x="-56" y="-12"/>
+            <vector name="rb" x="-12" y="0"/>
+        </subprop>
+    </subprop>
+    <subprop name="charge">
+        <subprop name="3">
+            <subprop name="stabO1">
+                <subprop name="1">
+                    <canvas name="0" width="85" height="35">
+                        <vector name="origin" x="76" y="41"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="1" width="70" height="23">
+                        <vector name="origin" x="80" y="35"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="2" width="46" height="27">
+                        <vector name="origin" x="85" y="37"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="3" width="33" height="25">
+                        <vector name="origin" x="85" y="36"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="4" width="23" height="21">
+                        <vector name="origin" x="81" y="36"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="5" width="13" height="12">
+                        <vector name="origin" x="81" y="31"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                </subprop>
+                <vector name="lt" x="-84" y="-30"/>
+                <vector name="rb" x="-20" y="-15"/>
+            </subprop>
+            <subprop name="stabO2">
+                <subprop name="1">
+                    <canvas name="0" width="85" height="35">
+                        <vector name="origin" x="76" y="41"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="1" width="70" height="23">
+                        <vector name="origin" x="80" y="35"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="2" width="46" height="27">
+                        <vector name="origin" x="85" y="37"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="3" width="33" height="25">
+                        <vector name="origin" x="85" y="36"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="4" width="23" height="21">
+                        <vector name="origin" x="81" y="36"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="5" width="13" height="12">
+                        <vector name="origin" x="81" y="31"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                </subprop>
+                <vector name="lt" x="-83" y="-30"/>
+                <vector name="rb" x="-12" y="-16"/>
+            </subprop>
+            <subprop name="straight">
+                <subprop name="1">
+                    <canvas name="0" width="85" height="35">
+                        <vector name="origin" x="76" y="41"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="1" width="70" height="23">
+                        <vector name="origin" x="80" y="35"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="2" width="46" height="27">
+                        <vector name="origin" x="85" y="37"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="3" width="33" height="25">
+                        <vector name="origin" x="85" y="36"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="4" width="23" height="21">
+                        <vector name="origin" x="81" y="36"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="5" width="13" height="12">
+                        <vector name="origin" x="81" y="31"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                </subprop>
+                <vector name="lt" x="-83" y="-30"/>
+                <vector name="rb" x="-12" y="-16"/>
+            </subprop>
+            <subprop name="proneStab">
+                <subprop name="1">
+                    <canvas name="0" width="85" height="35">
+                        <vector name="origin" x="63" y="22"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="1" width="70" height="23">
+                        <vector name="origin" x="67" y="16"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="2" width="46" height="27">
+                        <vector name="origin" x="72" y="18"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="3" width="33" height="25">
+                        <vector name="origin" x="72" y="17"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="4" width="23" height="21">
+                        <vector name="origin" x="68" y="17"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                    <canvas name="5" width="13" height="12">
+                        <vector name="origin" x="68" y="12"/>
+                        <int name="delay" value="60"/>
+                    </canvas>
+                </subprop>
+                <vector name="lt" x="-56" y="-12"/>
+                <vector name="rb" x="-12" y="0"/>
+            </subprop>
+        </subprop>
+    </subprop>
+</imgdir>

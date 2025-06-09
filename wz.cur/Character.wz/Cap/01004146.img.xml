@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01004146.img">
+    <subprop name="info">
+        <canvas name="icon" width="36" height="31">
+            <vector name="origin" x="2" y="31"/>
+            <string name="_hash" value="a045e33ab94a6c6ca7aa625069d77b0812fce39c238b90747fa95a3bda31f848"/>
+        </canvas>
+        <canvas name="iconRaw" width="36" height="31">
+            <vector name="origin" x="2" y="31"/>
+        </canvas>
+        <string name="islot" value="Cp"/>
+        <string name="vslot" value="CpHdH1H2H3H4H5H6HsHfHbAfAyAsAe"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+        <int name="noMoveToLocker" value="1"/>
+        <int name="cashForceCharmExp" value="0"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="60" height="44">
+            <vector name="origin" x="30" y="21"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="capOverHair"/>
+            <string name="_hash" value="21e26ed01bb83d50abe3bd42679980fdf0b019c016760e4ff2f722f123eb40a2"/>
+        </canvas>
+        <canvas name="hairBelowBody" width="67" height="66">
+            <vector name="origin" x="27" y="14"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="hairBelowBody"/>
+            <string name="_hash" value="1b8893fa74cdf24e829aba8bc56e0d97961edcc027dfb2329a56d5090ae833b2"/>
+        </canvas>
+    </subprop>
+    <subprop name="backDefault">
+        <canvas name="default" width="71" height="77">
+            <vector name="origin" x="31" y="23"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="backCap"/>
+            <string name="_hash" value="5863be267532a7c372bc10decee27ca7238ec50577b46e90a37a7b7953676750"/>
+        </canvas>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <canvas name="default" width="60" height="44">
+                <vector name="origin" x="30" y="21"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="b78a65db9046a6e4c22b50d26dbc9c41deffa25b83bce7f7e09308a5426b79ab"/>
+            </canvas>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="4">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../swingO1/2/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <canvas name="default" width="60" height="44">
+                <vector name="origin" x="30" y="21"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="0fa890f39a1545364615f232225310660ea034cc031d0ee6a828fd67f9bf89bf"/>
+            </canvas>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../0/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <uol name="default" value="../../fly/0/default"/>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <canvas name="default" width="60" height="44">
+                <vector name="origin" x="30" y="21"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="capOverHair"/>
+                <string name="_hash" value="7d01110f0eea85e3e7ab0164331bee47a1b4717bed880ec1a17f554dd2f1b5a1"/>
+            </canvas>
+            <uol name="hairBelowBody" value="../../default/hairBelowBody"/>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../backDefault/default"/>
+        </subprop>
+    </subprop>
+</imgdir>

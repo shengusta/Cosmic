@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01003940.img">
+    <subprop name="info">
+        <canvas name="icon" width="32" height="33">
+            <vector name="origin" x="-2" y="31"/>
+            <string name="_hash" value="3e96f4fe90ba7758dbe7adbbe9b4260e65524b49a1310fe13ec68379eebf3f9b"/>
+        </canvas>
+        <canvas name="iconRaw" width="32" height="32">
+            <vector name="origin" x="-2" y="31"/>
+            <string name="_hash" value="4358e3874afe889102441a5d553ba45656a9cb7e2939596f107713cfb7a3866e"/>
+        </canvas>
+        <string name="islot" value="HrCp"/>
+        <string name="vslot" value="CpH1H2H3H4H5H6HfHbHxHs"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="0"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+    </subprop>
+    <subprop name="default">
+        <canvas name="default" width="81" height="64">
+            <vector name="origin" x="26" y="48"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="cap"/>
+            <string name="_hash" value="6b49e6baeebbc018685034e11a923fd38d5466531041c0f1db6812a564bc334c"/>
+        </canvas>
+        <canvas name="default1" width="88" height="64">
+            <vector name="origin" x="26" y="48"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="cap"/>
+            <string name="_hash" value="dc0821ac9f613c6bcf08ad4a52528b278bbacfc2e41503c4fc6cd200b302bfcb"/>
+        </canvas>
+        <canvas name="default2" width="96" height="62">
+            <vector name="origin" x="26" y="46"/>
+            <string name="z" value="cap"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="_hash" value="81aab89cc924b3e788a7024dfc873c9f845bdb6ce9d8d86262a4971dd666566b"/>
+        </canvas>
+        <canvas name="default3" width="66" height="64">
+            <vector name="origin" x="26" y="48"/>
+            <string name="z" value="cap"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="_hash" value="d4e117d7fdf0c9628985954e34267dc40708b61c797d5f45a61c8487ddcceff3"/>
+        </canvas>
+        <canvas name="default4" width="73" height="64">
+            <vector name="origin" x="26" y="48"/>
+            <string name="z" value="cap"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="_hash" value="785f982a915f438247ef9b4cff27a08433a8d3856a8baa3618b832bf78e3dfc8"/>
+        </canvas>
+        <canvas name="default5" width="80" height="66">
+            <vector name="origin" x="26" y="50"/>
+            <string name="z" value="cap"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="_hash" value="32f2e465669b4674a7f41c4f23e6c3ba166b464514a4080f88dffd1626e4625f"/>
+        </canvas>
+        <canvas name="default6" width="66" height="64">
+            <vector name="origin" x="26" y="48"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="cap"/>
+            <string name="_hash" value="79297b6e2408c14436b39f11a8b3c486be587e7d70c72840545c56e5a14e3749"/>
+        </canvas>
+        <canvas name="default7" width="80" height="74">
+            <vector name="origin" x="27" y="63"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="cap"/>
+            <string name="_hash" value="120159c7a312a78528442ff145e42a4eb7fff61b910924e3aa17c1b43834cacf"/>
+        </canvas>
+        <canvas name="default8" width="87" height="64">
+            <vector name="origin" x="48" y="49"/>
+            <string name="z" value="cap"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="_hash" value="f50ea2b1ff0b8f1897067fa2891c995e5fd613f8028bb26baa74e03517a77127"/>
+        </canvas>
+        <canvas name="defaultAc" width="46" height="36">
+            <vector name="origin" x="16" y="12"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="backCap"/>
+            <string name="_hash" value="91df1dbe4dbb5d9e78d7390e6b5cbf7643a88e01bd22c92c75a14e6f4051fb4e"/>
+        </canvas>
+    </subprop>
+    <subprop name="backDefault">
+        <canvas name="default1" width="68" height="73">
+            <vector name="origin" x="28" y="50"/>
+            <subprop name="map">
+                <vector name="brow" x="0" y="0"/>
+            </subprop>
+            <string name="z" value="backCap"/>
+            <string name="_hash" value="163f40abcdfddbd9de0b5287a8fdca2edc72a2b5ddf5e5e6cc9a66acbedce6ed"/>
+        </canvas>
+    </subprop>
+    <subprop name="walk1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default2"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default3"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default2"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="walk2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default2"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default3"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="3">
+            <uol name="default" value="../../default/default2"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand1">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default4"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default5"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="stand2">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default4"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default5"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="alert">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default4"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default5"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="swingO1">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO2">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingO3">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingOF">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="backDefault" value="../../backDefault/default1"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT1">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT2">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingT3">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingTF">
+        <subprop name="0">
+            <uol name="backDefault" value="../../backDefault/default1"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP1">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingP2">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="swingPF">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO1">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabO2">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabOF">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT1">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabT2">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="stabTF">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+        </subprop>
+    </subprop>
+    <subprop name="shoot1">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="59"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="47" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shoot2">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="2">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default8" width="87" height="64">
+                <vector name="origin" x="48" y="48"/>
+                <string name="z" value="cap"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+            </canvas>
+        </subprop>
+        <subprop name="3">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="4">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="shootF">
+        <subprop name="0">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default6" width="66" height="64">
+                <vector name="origin" x="26" y="49"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+        <subprop name="1">
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+            <canvas name="default7" width="80" height="74">
+                <vector name="origin" x="25" y="58"/>
+                <subprop name="map">
+                    <vector name="brow" x="0" y="0"/>
+                </subprop>
+                <string name="z" value="cap"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="proneStab">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="prone">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="heal">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default2"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="2">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="fly">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="default" value="../../default/default2"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="jump">
+        <subprop name="0">
+            <uol name="default" value="../../default/default3"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="sit">
+        <subprop name="0">
+            <uol name="default" value="../../default/default"/>
+            <uol name="defaultAc" value="../../default/defaultAc"/>
+        </subprop>
+    </subprop>
+    <subprop name="ladder">
+        <subprop name="0">
+            <uol name="backDefault" value="../../backDefault/default1"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="backDefault" value="../../backDefault/default1"/>
+        </subprop>
+    </subprop>
+    <subprop name="rope">
+        <subprop name="0">
+            <uol name="backDefault" value="../../backDefault/default1"/>
+        </subprop>
+        <subprop name="1">
+            <uol name="backDefault" value="../../backDefault/default1"/>
+        </subprop>
+    </subprop>
+</imgdir>

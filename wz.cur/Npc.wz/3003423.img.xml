@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="3003423.img">
+    <subprop name="info">
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="52" height="76">
+            <vector name="origin" x="25" y="75"/>
+            <int name="z" value="0"/>
+            <string name="_hash" value="7770f21b019ad28cb975bd2b01583be1856a27807a170745d69e292fe2796154"/>
+        </canvas>
+    </subprop>
+    <subprop name="condition2">
+        <subprop name="34271">
+            <subprop name="0">
+                <string name="key" value="23"/>
+                <string name="value" value="h0"/>
+            </subprop>
+        </subprop>
+        <int name="hide" value="1"/>
+        <uol name="stand" value="../stand"/>
+    </subprop>
+    <subprop name="condition3">
+        <subprop name="34271">
+            <subprop name="0">
+                <string name="key" value="23"/>
+                <string name="value" value="h2"/>
+            </subprop>
+        </subprop>
+        <subprop name="stand">
+            <canvas name="0" width="52" height="76">
+                <vector name="origin" x="25" y="75"/>
+                <int name="z" value="0"/>
+                <string name="_hash" value="8e76c52b89ed73fbedb1a3608932e0443410921556aab37f755d62f2de1fad92"/>
+            </canvas>
+        </subprop>
+    </subprop>
+    <subprop name="condition4">
+        <subprop name="34271">
+            <subprop name="0">
+                <string name="key" value="23"/>
+                <string name="value" value="h1"/>
+            </subprop>
+        </subprop>
+        <subprop name="stand">
+            <canvas name="0" width="52" height="76">
+                <vector name="origin" x="25" y="75"/>
+                <int name="z" value="0"/>
+            </canvas>
+        </subprop>
+    </subprop>
+</imgdir>

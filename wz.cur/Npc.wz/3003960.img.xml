@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="3003960.img">
+    <subprop name="info">
+        <int name="hide" value="1"/>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="48" height="82">
+            <vector name="origin" x="21" y="82"/>
+            <int name="delay" value="3000"/>
+            <string name="_hash" value="3d6b879e3642234eaade9efa0392823eb0496b678b75f14800e7097c021aff0c"/>
+        </canvas>
+    </subprop>
+    <subprop name="condition2">
+        <subprop name="35831">
+            <subprop name="0">
+                <string name="key" value="60"/>
+                <string name="value" value="h0"/>
+            </subprop>
+        </subprop>
+        <uol name="stand" value="../stand"/>
+    </subprop>
+</imgdir>

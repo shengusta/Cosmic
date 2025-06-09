@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1204005.img">
+    <subprop name="info">
+        <subprop name="script">
+            <subprop name="0">
+                <string name="script" value="downTrue"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="stand">
+        <canvas name="0" width="61" height="71">
+            <vector name="origin" x="30" y="71"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </subprop>
+</imgdir>

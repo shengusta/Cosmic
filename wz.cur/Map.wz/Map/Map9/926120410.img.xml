@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="926120410.img">
+    <subprop name="info">
+        <int name="version" value="10"/>
+        <int name="cloud" value="0"/>
+        <int name="town" value="0"/>
+        <int name="swim" value="0"/>
+        <int name="returnMap" value="999999999"/>
+        <int name="forcedReturn" value="999999999"/>
+        <float name="mobRate" value="1.0"/>
+        <string name="bgm" value="Bgm12/Dispute"/>
+        <string name="mapMark" value="None"/>
+        <int name="hideMinimap" value="1"/>
+        <int name="fieldLimit" value="8952"/>
+        <int name="VRTop" value="-330"/>
+        <int name="VRLeft" value="-400"/>
+        <int name="VRBottom" value="270"/>
+        <int name="VRRight" value="400"/>
+    </subprop>
+    <subprop name="back">
+        <subprop name="0">
+            <string name="bS" value="nightDesert"/>
+            <int name="front" value="0"/>
+            <int name="ani" value="0"/>
+            <int name="no" value="33"/>
+            <int name="f" value="0"/>
+            <int name="x" value="-238"/>
+            <int name="y" value="-9"/>
+            <int name="rx" value="-100"/>
+            <int name="ry" value="-100"/>
+            <int name="type" value="0"/>
+            <int name="cx" value="0"/>
+            <int name="cy" value="0"/>
+            <int name="a" value="255"/>
+        </subprop>
+        <subprop name="1">
+            <string name="bS" value="nightDesert"/>
+            <int name="front" value="0"/>
+            <int name="ani" value="0"/>
+            <int name="no" value="34"/>
+            <int name="f" value="0"/>
+            <int name="x" value="162"/>
+            <int name="y" value="-9"/>
+            <int name="rx" value="-100"/>
+            <int name="ry" value="-100"/>
+            <int name="type" value="0"/>
+            <int name="cx" value="0"/>
+            <int name="cy" value="0"/>
+            <int name="a" value="255"/>
+        </subprop>
+    </subprop>
+    <subprop name="life">
+    </subprop>
+    <subprop name="reactor">
+    </subprop>
+    <subprop name="0">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+        </subprop>
+    </subprop>
+    <subprop name="1">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+        </subprop>
+    </subprop>
+    <subprop name="2">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+        </subprop>
+    </subprop>
+    <subprop name="3">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+            <subprop name="0">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accL"/>
+                <string name="l2" value="0"/>
+                <int name="x" value="-266"/>
+                <int name="y" value="14"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="5"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="1">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accL"/>
+                <string name="l2" value="3"/>
+                <int name="x" value="-155"/>
+                <int name="y" value="46"/>
+                <int name="z" value="8"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="5"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="2">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accL"/>
+                <string name="l2" value="6"/>
+                <int name="x" value="-186"/>
+                <int name="y" value="-68"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="5"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="3">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accR"/>
+                <string name="l2" value="0"/>
+                <int name="x" value="40"/>
+                <int name="y" value="20"/>
+                <int name="z" value="8"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="4"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="4">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accR"/>
+                <string name="l2" value="6"/>
+                <int name="x" value="152"/>
+                <int name="y" value="28"/>
+                <int name="z" value="10"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="4"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="7">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accR"/>
+                <string name="l2" value="10"/>
+                <int name="x" value="90"/>
+                <int name="y" value="2"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="4"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="8">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accR"/>
+                <string name="l2" value="11"/>
+                <int name="x" value="246"/>
+                <int name="y" value="-71"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="3"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="5">
+                <string name="oS" value="acc8"/>
+                <string name="l0" value="jenumist"/>
+                <string name="l1" value="gate"/>
+                <string name="l2" value="3"/>
+                <int name="x" value="285"/>
+                <int name="y" value="3"/>
+                <int name="z" value="5"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="3"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="6">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="accR"/>
+                <string name="l2" value="11"/>
+                <int name="x" value="30"/>
+                <int name="y" value="-71"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="6"/>
+                <int name="r" value="0"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="4">
+        <subprop name="info">
+            <string name="tS" value="magatia"/>
+            <int name="tSMag" value="1"/>
+        </subprop>
+        <subprop name="tile">
+            <subprop name="4">
+                <int name="x" value="-135"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="1">
+                <int name="x" value="-225"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="7">
+                <int name="x" value="-315"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="9">
+                <int name="x" value="-405"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="13">
+                <int name="x" value="45"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="3">
+                <int name="x" value="-45"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="11">
+                <int name="x" value="135"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="14">
+                <int name="x" value="225"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="17">
+                <int name="x" value="315"/>
+                <int name="y" value="90"/>
+                <string name="u" value="enH0"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="12">
+                <int name="x" value="45"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="2">
+                <int name="x" value="-45"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="5">
+                <int name="x" value="-135"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="10">
+                <int name="x" value="135"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="15">
+                <int name="x" value="225"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="16">
+                <int name="x" value="315"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="0">
+                <int name="x" value="-225"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="6">
+                <int name="x" value="-315"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="8">
+                <int name="x" value="-405"/>
+                <int name="y" value="90"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="24">
+                <int name="x" value="-405"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="26">
+                <int name="x" value="-225"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="19">
+                <int name="x" value="-315"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="18">
+                <int name="x" value="-135"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="22">
+                <int name="x" value="45"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="21">
+                <int name="x" value="-45"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="23">
+                <int name="x" value="135"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="20">
+                <int name="x" value="225"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="25">
+                <int name="x" value="315"/>
+                <int name="y" value="150"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="36">
+                <int name="x" value="-405"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="44">
+                <int name="x" value="-405"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="38">
+                <int name="x" value="-315"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="45">
+                <int name="x" value="-315"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="37">
+                <int name="x" value="-225"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="47">
+                <int name="x" value="-225"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="53">
+                <int name="x" value="-135"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="46">
+                <int name="x" value="-135"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="51">
+                <int name="x" value="-45"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="48">
+                <int name="x" value="-45"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="55">
+                <int name="x" value="45"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="56">
+                <int name="x" value="45"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="58">
+                <int name="x" value="135"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="59">
+                <int name="x" value="135"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="60">
+                <int name="x" value="225"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="61">
+                <int name="x" value="225"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="63">
+                <int name="x" value="315"/>
+                <int name="y" value="-210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="57">
+                <int name="x" value="315"/>
+                <int name="y" value="-150"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="64">
+                <int name="x" value="315"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="65">
+                <int name="x" value="135"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="49">
+                <int name="x" value="45"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="52">
+                <int name="x" value="-135"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="50">
+                <int name="x" value="-225"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="70">
+                <int name="x" value="225"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="68">
+                <int name="x" value="135"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="69">
+                <int name="x" value="-45"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="62">
+                <int name="x" value="-225"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="54">
+                <int name="x" value="-405"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="67">
+                <int name="x" value="-315"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="39">
+                <int name="x" value="-135"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="41">
+                <int name="x" value="-315"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="40">
+                <int name="x" value="-405"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="71">
+                <int name="x" value="-45"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="66">
+                <int name="x" value="225"/>
+                <int name="y" value="-270"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="43">
+                <int name="x" value="315"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="42">
+                <int name="x" value="45"/>
+                <int name="y" value="-330"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="73">
+                <int name="x" value="-405"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="28">
+                <int name="x" value="-315"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="80">
+                <int name="x" value="-315"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="29">
+                <int name="x" value="-405"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="30">
+                <int name="x" value="-225"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="75">
+                <int name="x" value="-225"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="31">
+                <int name="x" value="-45"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="27">
+                <int name="x" value="-135"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="33">
+                <int name="x" value="45"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="32">
+                <int name="x" value="135"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="34">
+                <int name="x" value="225"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="3"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="35">
+                <int name="x" value="315"/>
+                <int name="y" value="210"/>
+                <string name="u" value="bsc"/>
+                <int name="no" value="2"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="74">
+                <int name="x" value="315"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="72">
+                <int name="x" value="-45"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="76">
+                <int name="x" value="45"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="78">
+                <int name="x" value="135"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="1"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="79">
+                <int name="x" value="225"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+            <subprop name="77">
+                <int name="x" value="-135"/>
+                <int name="y" value="270"/>
+                <string name="u" value="enH1"/>
+                <int name="no" value="0"/>
+                <int name="zM" value="0"/>
+            </subprop>
+        </subprop>
+        <subprop name="obj">
+            <subprop name="0">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-27"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="19"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="1">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="29"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="20"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="2">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="85"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="7"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="3">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="141"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="8"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="4">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="197"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="9"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="5">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="253"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="10"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="6">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-195"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="11"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="7">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-139"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="12"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="8">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-83"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="13"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="9">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-363"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="14"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="10">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-307"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="15"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="11">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="-251"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="16"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="12">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="309"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="17"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="13">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="foot"/>
+                <string name="l2" value="5"/>
+                <int name="x" value="365"/>
+                <int name="y" value="-121"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="18"/>
+                <int name="r" value="0"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="5">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+        </subprop>
+    </subprop>
+    <subprop name="6">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+        </subprop>
+    </subprop>
+    <subprop name="7">
+        <subprop name="info">
+        </subprop>
+        <subprop name="tile">
+        </subprop>
+        <subprop name="obj">
+            <subprop name="0">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="basic"/>
+                <string name="l2" value="0"/>
+                <int name="x" value="-320"/>
+                <int name="y" value="151"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="1"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="1">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="basic"/>
+                <string name="l2" value="2"/>
+                <int name="x" value="341"/>
+                <int name="y" value="150"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="2"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="2">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="basic"/>
+                <string name="l2" value="0"/>
+                <int name="x" value="-320"/>
+                <int name="y" value="-149"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="0"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="3">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="basic"/>
+                <string name="l2" value="2"/>
+                <int name="x" value="356"/>
+                <int name="y" value="165"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="0"/>
+                <int name="r" value="0"/>
+            </subprop>
+            <subprop name="4">
+                <string name="oS" value="insideMG"/>
+                <string name="l0" value="cheese"/>
+                <string name="l1" value="basic"/>
+                <string name="l2" value="2"/>
+                <int name="x" value="341"/>
+                <int name="y" value="-150"/>
+                <int name="z" value="9"/>
+                <int name="f" value="0"/>
+                <int name="zM" value="0"/>
+                <int name="r" value="0"/>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="foothold">
+        <subprop name="4">
+            <subprop name="0">
+                <subprop name="1">
+                    <int name="x1" value="-225"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="-135"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="4"/>
+                    <int name="next" value="3"/>
+                </subprop>
+                <subprop name="2">
+                    <int name="x1" value="-45"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="45"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="3"/>
+                    <int name="next" value="7"/>
+                </subprop>
+                <subprop name="3">
+                    <int name="x1" value="-135"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="-45"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="1"/>
+                    <int name="next" value="2"/>
+                </subprop>
+                <subprop name="4">
+                    <int name="x1" value="-315"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="-225"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="5"/>
+                    <int name="next" value="1"/>
+                </subprop>
+                <subprop name="5">
+                    <int name="x1" value="-405"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="-315"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="0"/>
+                    <int name="next" value="4"/>
+                </subprop>
+                <subprop name="6">
+                    <int name="x1" value="135"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="225"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="7"/>
+                    <int name="next" value="8"/>
+                </subprop>
+                <subprop name="7">
+                    <int name="x1" value="45"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="135"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="2"/>
+                    <int name="next" value="6"/>
+                </subprop>
+                <subprop name="8">
+                    <int name="x1" value="225"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="315"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="6"/>
+                    <int name="next" value="9"/>
+                </subprop>
+                <subprop name="9">
+                    <int name="x1" value="315"/>
+                    <int name="y1" value="72"/>
+                    <int name="x2" value="405"/>
+                    <int name="y2" value="72"/>
+                    <int name="prev" value="8"/>
+                    <int name="next" value="0"/>
+                </subprop>
+            </subprop>
+        </subprop>
+    </subprop>
+    <subprop name="ladderRope">
+    </subprop>
+    <subprop name="portal">
+        <subprop name="0">
+            <string name="pn" value="sp"/>
+            <int name="pt" value="0"/>
+            <int name="x" value="-139"/>
+            <int name="y" value="-27"/>
+            <int name="tm" value="999999999"/>
+            <string name="tn" value=""/>
+        </subprop>
+        <subprop name="1">
+            <string name="pn" value="st00"/>
+            <int name="pt" value="9"/>
+            <int name="x" value="-135"/>
+            <int name="y" value="37"/>
+            <int name="tm" value="999999999"/>
+            <string name="tn" value=""/>
+            <string name="script" value="cheeseEx"/>
+            <int name="hideTooltip" value="0"/>
+            <int name="onlyOnce" value="0"/>
+            <int name="delay" value="0"/>
+        </subprop>
+        <subprop name="2">
+            <string name="pn" value="out00"/>
+            <int name="pt" value="7"/>
+            <int name="x" value="276"/>
+            <int name="y" value="68"/>
+            <int name="tm" value="999999999"/>
+            <string name="tn" value=""/>
+            <string name="script" value="cheeseOut"/>
+        </subprop>
+    </subprop>
+</imgdir>

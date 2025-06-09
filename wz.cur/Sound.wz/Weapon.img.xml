@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Weapon.img">
+    <subprop name="swordL">
+        <sound name="Attack"/>
+    </subprop>
+    <subprop name="swordS">
+        <sound name="Attack"/>
+    </subprop>
+    <subprop name="mace">
+        <sound name="Attack"/>
+    </subprop>
+    <subprop name="poleArm">
+        <sound name="Attack"/>
+    </subprop>
+    <subprop name="spear">
+        <sound name="Attack"/>
+    </subprop>
+    <subprop name="bow">
+        <sound name="Attack"/>
+        <sound name="Attack2"/>
+    </subprop>
+    <subprop name="cBow">
+        <sound name="Attack"/>
+        <sound name="Attack2"/>
+    </subprop>
+    <subprop name="tGlove">
+        <sound name="Attack"/>
+        <sound name="Attack2"/>
+    </subprop>
+    <subprop name="knuckle">
+        <sound name="Attack"/>
+        <sound name="Attack2"/>
+    </subprop>
+    <subprop name="barehands">
+        <sound name="Attack"/>
+        <sound name="Attack2"/>
+    </subprop>
+    <subprop name="gun">
+        <sound name="Attack"/>
+        <sound name="Attack2"/>
+    </subprop>
+</imgdir>
