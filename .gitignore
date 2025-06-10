@@ -3,6 +3,8 @@
 !.idea/codeStyles/
 *.iml
 /target
+/wz/
+/wz.cur/
 
 # build files
 /build/
