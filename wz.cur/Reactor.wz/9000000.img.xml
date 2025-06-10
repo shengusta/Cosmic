@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<imgdir name="9000000.img">
-    <subprop name="info">
-        <string name="info" value="109010104..109010108"/>
-        <string name="link" value="2202002"/>
-    </subprop>
-    <string name="action" value="eventMap0"/>
-</imgdir>

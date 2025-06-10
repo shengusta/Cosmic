@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<imgdir name="9202010.img">
-    <subprop name="info">
-        <string name="info" value="음식 접시"/>
-        <string name="link" value="9202003"/>
-    </subprop>
-    <string name="action" value="syarenItem10"/>
-</imgdir>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<imgdir name="2112005.img">
-    <subprop name="info">
-        <string name="info" value="key"/>
-        <string name="link" value="2112000"/>
-    </subprop>
-    <string name="action" value="boxPaper0"/>
-</imgdir>
