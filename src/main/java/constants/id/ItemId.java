@@ -67,6 +67,16 @@ public class ItemId {
         // alt: return itemId / 10000 == 301;
     }
 
+    // Arrow
+    public static final int ARROW_FOR_BOW = 2060000;
+    public static final int ARROW_FOR_CROSSBOW = 2061000;
+    private static final int ARROW_MIN = ARROW_FOR_BOW;
+    private static final int ARROW_MAX = 2061004;
+    
+    public static int[] allArrowIds() {
+        return IntStream.range(ARROW_MIN, ARROW_MAX + 1).toArray();
+    }
+
     // Throwing star
     public static final int SUBI_THROWING_STARS = 2070000;
     public static final int HWABI_THROWING_STARS = 2070007;

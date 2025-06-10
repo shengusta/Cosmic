@@ -3642,8 +3642,8 @@ public class MapleMap {
                 if (spawnPoint.shouldSpawn()) {
                     for (int i = 0; i < YamlConfig.config.server.MONSTER_SPAWN_RATE_MULTIPLIER; i++) {
                         spawnMonster(spawnPoint.getMonster());
-                        spawned++;
                     }
+                    spawned++;
                     if (spawned >= numShouldSpawn) {
                         break;
                     }

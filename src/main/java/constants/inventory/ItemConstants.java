@@ -88,8 +88,9 @@ public final class ItemConstants {
         return isPotion(itemId) || isFood(itemId);
     }
 
+    // AdventureMS Custom - Rechargeable Arrows
     public static boolean isRechargeable(int itemId) {
-        return isThrowingStar(itemId) || isBullet(itemId);
+        return isThrowingStar(itemId) || isBullet(itemId) || isArrow(itemId);
     }
 
     public static boolean isArrowForCrossBow(int itemId) {
